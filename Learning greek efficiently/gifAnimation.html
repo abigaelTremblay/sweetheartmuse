@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<style>
+    #box {
+        width: 1440px;
+        height: 600px;
+        display: inline-block;
+    }
+    #box .innerBox {
+        border: 1px solid black;
+        position: absolute;
+        transition: transform 0.5s linear;
+    }
+
+    #box .innerBox.grow {
+        z-index: 1;
+        transform: scale(2);
+    }
+</style>
+</head>
+<body>
+
+<div id="box"></div>
+
+<script>
+$(window).on('load', function() {
+    var squareW = 24;
+    var squareH = 24;
+    var colours = [
+        [0,0,0],
+        [0,0,64],
+        [0,100,100],
+        [300,100,25],
+        [197, 97, 66],
+        [348, 83, 81],
+        [240, 50, 33],
+        [345, 100, 45]
+    ];
+
+    function randomColour() {
+        return colours[Math.floor(Math.random()*colours.length)];;
+    }
+    function nextColour(c1, c2, i, j) {
+        // Hue
+        var smallest = Math.min(c1[0], c2[0]);
+        var largest = Math.max(c1[0],c2[0]);
+        var firstDif = largest - smallest;
+        var secDif = 360 - largest + smallest;
+        var dif = secDif < firstDif ? secDif:firstDif;
+
+        var hue = Math.floor((dif*i+smallest)%360);
+        // Saturation
+        var saturation = Math.floor(Math.abs(c1[1]- c2[1])*j+Math.min(c1[1],c2[1]));
+        //Lightness
+        var lightness = Math.floor(Math.abs(c1[2]- c2[2])*j+Math.min(c1[2],c2[2]));
+
+        return [hue, saturation, lightness];
+    };
+    function hslaToString(c) {
+        return 'hsla('+
+            c[0]+','+
+            c[1]+'%,'+
+            c[2]+'%,1)';
+    }
+
+    let box = $('#box');
+    let map = [];
+    let width = box.width();
+    let height = box.height();
+    let numWidth = width/squareW;
+    let numHeight = height/squareH;
+    let preLeftColour = randomColour();
+    let preRightColour = randomColour();
+
+    for (let i = 0; i < numHeight; i++) {
+        map.push([]);
+        for (let j = 0; j < numWidth; j++) {
+            let firstColour = nextColour(preLeftColour, preRightColour, j/numWidth, i/numHeight);
+            let str1 = hslaToString(firstColour);
+            let innerBox = $("<div></div>")
+                .addClass('innerBox')
+                .width(squareW)
+                .height(squareH)
+                .css('left', j*squareW)
+                .css('top', i*squareH)
+                .css('background-color', str1);
+            box.append(innerBox);
+            map[i].push(innerBox);
+        }
+    }
+    let _this = this;
+    function animate () {
+        let afterLeftColour = randomColour();
+        let afterRightColour = randomColour();
+        let thirdLeftColour = randomColour();
+        let thirdRightColour = randomColour();
+        for (let i = 0; i < numHeight; i++) {
+            for (let j = 0; j < numWidth; j++) {
+                let secondColour = nextColour(afterLeftColour, afterRightColour, j/numWidth, i/numHeight);
+                let thirdColour = nextColour(thirdLeftColour, thirdRightColour, j/numWidth, i/numHeight);
+                let str2 = hslaToString(secondColour);
+                let str3 = hslaToString(thirdColour);
+                setTimeout(function() {
+                    map[i][j].addClass('grow')
+                    .css('background-color', str2);
+                }.bind(_this), (j+i)*100);
+                setTimeout(function() {
+                    map[i][j].removeClass('grow')
+                    .css('background-color', str3);
+                }.bind(_this), (j+i)*100+10000);
+            }
+        }
+    }
+    animate();
+    setInterval(animate.bind(_this), 20000);
+});
+</script>
+
+</body>
+</html>
