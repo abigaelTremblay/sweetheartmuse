@@ -28,6 +28,7 @@ $(document).ready(function() {
 
 	// Populate the map
 	for (var word of list) {
+		word = `${word.toLowerCase()}/${word.charAt(0).toUpperCase() + word.slice(1)}`;
 		if (word != currentWord) {
 			if (!map[currentWord]) {
 				map[currentWord] = 0;
