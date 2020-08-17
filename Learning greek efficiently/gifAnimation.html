@@ -29,18 +29,22 @@ $(window).on('load', function() {
     var squareW = 24;
     var squareH = 24;
     var colours = [
-        [0,0,0],
-        [0,0,64],
-        [0,100,100],
-        [300,100,25],
-        [197, 97, 66],
-        [348, 83, 81],
-        [240, 50, 33],
-        [345, 100, 45]
+        [0,0,0], /* black */
+        [0,0,64], /* light grey */
+        [0,100,100], /* white */
+        [300,100,25], /* violet */
+        [197, 97, 66], /* tg-flag cyan */
+        [348, 83, 81], /* tg-flag pink */
+        [240, 50, 33], /* navy blue */
+        [345, 100, 45] /* red */
     ];
 
-    function randomColour() {
-        return colours[Math.floor(Math.random()*colours.length)];;
+    function randomColour(distinct) {
+        let colour = [];
+        do {
+            colour = colours[Math.floor(Math.random()*colours.length)];
+        } while (distinct == colour);
+        return colour;
     }
     function nextColour(c1, c2, i, j) {
         // Hue
@@ -72,7 +76,7 @@ $(window).on('load', function() {
     let numWidth = width/squareW;
     let numHeight = height/squareH;
     let preLeftColour = randomColour();
-    let preRightColour = randomColour();
+    let preRightColour = randomColour(preLeftColour);
 
     for (let i = 0; i < numHeight; i++) {
         map.push([]);
@@ -93,9 +97,9 @@ $(window).on('load', function() {
     let _this = this;
     function animate () {
         let afterLeftColour = randomColour();
-        let afterRightColour = randomColour();
+        let afterRightColour = randomColour(afterLeftColour);
         let thirdLeftColour = randomColour();
-        let thirdRightColour = randomColour();
+        let thirdRightColour = randomColour(thirdLeftColour);
         for (let i = 0; i < numHeight; i++) {
             for (let j = 0; j < numWidth; j++) {
                 let secondColour = nextColour(afterLeftColour, afterRightColour, j/numWidth, i/numHeight);
