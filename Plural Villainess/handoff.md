@@ -6,7 +6,7 @@
 An **otome-villainess** novel set in a 19th-century-inspired world.
 - A plural 2nd son, **Gwion**, poses as his dead eldest sister, **Aveline**. He shares the body with a Tulpa, **Lleucu**, named after Aveline's middle name.
 - He is implied transgender. The Season, the Saint and the Concord form the main stage.
-- The author's original brainstorm (read-only) is in `Documents\Plural Villainess\notes`.
+- The author's original brainstorm (read-only) is in `notes`.
 
 ## Your role
 A worldbuilding collaborator:
@@ -43,7 +43,12 @@ A worldbuilding collaborator:
   - The Concord uses Latinate religious names.
   - **Avoid clashing initials in shared scenes.** Already used: **A**veline, **A**gnes, **G**wion, **R**enaud, **T**hibault, **C**lementia, **C**olumba, **E**irlys, **L**leucu, **E**inion.
   - Add every new Welsh name to the pronunciation guide (characters §0).
-- **Editing tip:** the Documents folder isn't writable from the agent. Work in the session `files\` folder and remind the author to copy files over.
+  - **Creature and world terms are English.** Welsh is for personal names only; the march gets its flavour from translated phrases (worldbuilding §2a "Creature names").
+- **Workspace:** the project is a writable git repo at `C:\git\sweetheartmuse\Plural Villainess`. Edit in place; leave changes uncommitted for the author to review unless she asks otherwise.
+- **Read-only:** anything in `Read-only, no AI may write\` (the author's prose) and `notes`. You may read and comment on them, but never edit.
+- **`wonderous ponderings`** is the author's brainstorm inbox. Apply the settled items, delete them from the file, then discuss what's left **one topic at a time**.
+- **`timeline.md`:** the chronological spine (backstory, the book's parts, arc tracks), with conflicts to discuss, gaps, and **beats where Aveline is passive** (flagged for the author to fix).
+- **`reading list.md`:** real-world references, sorted by relevance to the story.
 
 ## Hard rules that are easy to forget
 - **One person wears only one Mantle at a time.** Strain counts Mantles worn by *different people* within ~100 m.
@@ -72,7 +77,33 @@ A worldbuilding collaborator:
   - She likely never reforms: excuses and forgiveness-seeking.
   - See characters §4.2.
 
-## Queue (next)
+## Settled from the 2026-10-04 ponderings pass
+- **Pressure scales with colour,** from 2× at red to 8× at violet at 10 cm (worldbuilding §1.1).
+- **The legal list stays small.** New **Rain Veil** household charm (worldbuilding §1.2).
+- **Piercing rites:** nobles are licensed by birth.
+- **Pregnancy rule:** military women learn a foremother's Mantle first. This explains the 1st son's struggle to wear the Huntress (worldbuilding §4.7).
+- **The Conqueror** is now canon.
+- **Many character-sheet entries promoted to canon:**
+  - Lord, Eldest Daughter, 2nd Son, Saint.
+  - The revised storybook.
+  - The secret-name memory.
+  - The Litany and incense scene.
+  - The disarming Couturier.
+- **New 1st son stub** at characters §4.4.
+- **"Lucy" device dropped.**
+
+## Topic queue (discuss one at a time, from `wonderous ponderings`)
+1. ~~Piercing rites on melee weapons~~ (settled: the rite only works once a projectile is let go).
+2. ~~The Saint's etiquette~~ (progression settled; who teaches her honestly is pinned; challenge pinch on calling cards).
+3. ~~The Saint's way out~~ (proposal drafted in characters §5.1; final straw left open).
+4. ~~The Conqueror's symbols and dysmorphism~~ (settled: tribute cloak, merciful blinding, wrath; Renaud's marks; unwritten march protocol).
+5. ~~Pariah Myth expansion~~ (worldbuilding §2a; perks settled; creature names and "why people keep the traditions" are proposals awaiting review; settlement/law/economy still open).
+6. ~~The Huntress on horseback~~ (settled: she rides, the horse isn't Mantled).
+
+**The 2026-10-04 ponderings pass is complete** (closed 2026-10-05). `Wonderous ponderings` is empty, awaiting the author's next batch. All changes are uncommitted for her review.
+**Next session:** review her new ponderings first. Then return to `timeline.md`: rework the passive beats (§5) around Aveline's Season goal, and discuss conflicts C1–C8 one at a time.
+
+## Queue (after the topics)
 1. **The Patroness** (see worldbuilding §5b).
 2. **The Crown:** the King, the heir, and Renaud's cousins.
 3. **Estate pass:** the Lady, the Nurse, the 1st son (who now poses as Gwion).
@@ -80,7 +111,6 @@ A worldbuilding collaborator:
 ## Deferred: don't push unless the author raises them
 - Relationship-web archetype choices (characters §4.3).
 - The anchorhold's location **[Pinned]**: decided by plot convenience.
-- Whether Gwion enters the mounted Lists.
 - Names still unconfirmed: Agnes/Nell, Clementia, Columba.
 - Whether the Litany trance stays separate from plurality.
 - Open on Renaud:

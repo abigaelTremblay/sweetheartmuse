@@ -27,11 +27,13 @@ Companion to `worldbuilding.md`. Tags: **[Canon]** = decided by the author · **
 
 **Invocation shifts colour:** a spoken true name is strongest, a thought true name is one step down, and an epithet is roughly two or three steps down and slower to respond. **Public colour is usually the epithet colour.**
 
-### [Proposal] Typical loadout
+### [Canon] Typical loadout
 - **One main Mantle**, tied to the person's profession or station.
 - **Two or three utility Mantles**, each several shades weaker.
 - People who dedicate themselves to versatility (Breadth) trade depth for range.
 - **Arts:** a noble typically knows **4–6 rotes or receipts** well, plus the household basics. Nobody knows the whole Canon.
+- **[Canon] Canon over Mantles:** someone *could* spend their time mastering the Approved Canon instead of Mantles, but **nobles seldom do,** because so much class value is tied to Mantles.
+  - **[Open]** Author's lean: more common in the **Concord**. "Behave or the cloister" could also catch youths with little talent for Mantles, who **reinvent themselves as ward-smiths or apothecaries.**
 
 ### Naming themes by faction
 - **[Proposal] The march (conquered natives): Welsh-flavoured.** Historical model: **the actual Welsh Marches** (1066–1536).
@@ -40,7 +42,7 @@ Companion to `worldbuilding.md`. Tags: **[Canon]** = decided by the author · **
 - **The heartland (the conquerors): Anglo-Norman / Old French-flavoured.**
 - **Aristocratic children receive several given names.** One honours each side of the family, and the march-side name is used privately. This fits the true-name and epithet theme.
 
-**[Proposal] Who uses which theme:**
+**[Canon] Who uses which theme:**
 | Group | Theme | Examples | Notes |
 | --- | --- | --- | --- |
 | **March houses (old blood)** | Welsh given names in private, heartland names in public | Einion, Lleucu, Gwion | Patronymics (*ap* = son of, *ferch* = daughter of) survive among march commoners and in old charters |
@@ -51,7 +53,7 @@ Companion to `worldbuilding.md`. Tags: **[Canon]** = decided by the author · **
 
 **Effect on the reader:** Welsh names appear mostly in **private, intimate scenes**, so their strangeness becomes a signal of closeness and of the old, hidden world. Public scenes stay in the easier heartland register.
 
-### [Proposal] Pronunciation guide (for a front-of-book glossary)
+### [Canon] Pronunciation guide (for a front-of-book glossary)
 **Welsh letter rules:**
 | Letters | Sound |
 | --- | --- |
@@ -79,7 +81,8 @@ Companion to `worldbuilding.md`. Tags: **[Canon]** = decided by the author · **
 | Aveline | AV-uh-leen | heartland |
 | Mahaut | ma-OH | heartland (Old French form of Matilda) |
 
-**[Proposal] In-text device:** a heartland character mangles "Lleucu" as "Lucy." This teaches the reader the right sound and shows the class and culture gap in one beat. **It could also be how the betrothed first learns the private name, or a test of whether he bothers to say it right.**
+**[Canon] No in-text "Lucy" device.** Lleucu's existence is internal, so almost nobody but Gwion says her name aloud. Eirlys may overhear it, and Renaud may hear it only late, once they trust each other enough to confess the plurality. The front-of-book glossary carries the pronunciation instead.
+- **Note on the sound:** the hard **k** is right. *Ll* is the breathy "hl"; *eu* is roughly "ay" (South Wales) or "eye" (North); the final *u* is "ee" in the South, or a short "ih" in the North. So **HLAY-kee** (South) or **HLEYE-kih** (North). It is not "Lucy," and not "-luke."
 
 ---
 
@@ -114,12 +117,17 @@ Companion to `worldbuilding.md`. Tags: **[Canon]** = decided by the author · **
   - It **costs one of the rider's Mantle lives.**
   - The rider is **likely dismounted** by the shock and recovery as the mount crumbles. It takes a few moments to remount and rejoin the fight.
   - **Why do it anyway:** mounted fighting and mobility are a huge battlefield advantage, and **people get attached to their horses.**
-- **[Proposal] Consequences:**
+- **[Canon] Consequences:**
   - **A tactical tell:** a Cavalier who revives his horse has visibly spent a life. Enemies count. Saving the horse can mark you as the next target.
   - **Doctrine vs sentiment:** drill manuals say "let it fall, fight on foot." Veterans whisper about officers who spent their last life on a beloved horse.
   - **Famous horses** become part of the legend in turn: Marengo and Copenhagen were celebrities in our history. Here, a horse revived in a famous charge may join a house's **Myth, or even its Mantle.**
   - **Yellow Cavaliers (1 life)** face the starkest choice: the horse or their own safety margin.
   - **[Hook]** The Lord once spent a life on his horse in the war. Who saw it, and what does that say about a man who drinks his children's blood?
+  - **[Canon] That horse is now a stud at Talgarth:** a good horse, retired to leisure and to buyers' attention. A humanising detail for the Lord.
+    - **[Canon] Why it retired:** death and revival were likely traumatic for the horse. It may shy at Mantle pressure, or at the Cavalier's own weight settling on it.
+    - **[Proposal] How long a warhorse lasts:** cavalry remounts entered service at about 4–5 years old and were usually cast (retired or sold) somewhere in their mid-teens. In active war, most never got that far: Napoleon's 1812 campaign lost well over 100,000 horses. A horse that survives **3–6 campaign seasons** is already a veteran.
+      - **Precedents:** **Copenhagen** (Wellington's horse) served in the Peninsula and at Waterloo, then retired to Stratfield Saye, sired a few foals and died at 28 with military honours. **Marengo** (Napoleon's) carried him from about 1800 to 1815, was captured at Waterloo and lived to 38.
+      - **In-world:** Cavalier mounts wear out faster, because the legend's movements complete regardless of the body. A horse revived even once is near the end of its war career anyway; the stud is its honourable discharge.
 - **Consequence:** breeding strong warhorses is paramount, and **horse breeding is a respectable, even noble, profession.**
 - **[Proposal] Precedents:**
   - Medieval Wales was famed for its horses: Gerald of Wales praised the studs of Powys, and the **Welsh Cob** was bred for war.
@@ -133,7 +141,7 @@ Companion to `worldbuilding.md`. Tags: **[Canon]** = decided by the author · **
 | Breadth | Competent: 4 Mantles, but a slow Change. He's a specialist. |
 | Reading | **Masterful.** He knows the playstyles of rival houses and the rules of Myth. **His real weapon is knowledge.** |
 
-### [Proposal] Arts
+### [Canon] Arts
 - **Oath-binding** (rite): the legal tool he uses to silence the servants.
 - **Contract seal**: estate business, and the marriage contract.
 - **Mantle-sense ward**: placed throughout the manor.
@@ -141,7 +149,8 @@ Companion to `worldbuilding.md`. Tags: **[Canon]** = decided by the author · **
 - **Restorative draught**: he *knows* the receipt, though the Nurse brews it.
 - *Mundane skills:* march law, horsemanship, hunting, Parliament procedure. Poor with accounts; the steward handles those.
 
-### [Proposal] Myth: the Ghoul
+### [Canon] Myth: the Ghoul
+*His Myth centres on **presence and presentation**. Agelessness alone is a fair trade for drinking some blood every so often.*
 **Origin:**
 - Conqueror-era propaganda described the old native lords as bloodsuckers who **"drank the march dry."** It was a slander against a pariah nobility, flowing from the in-group, as deep-history canon predicts.
 - His line held the Myth in a trickle for generations. He opened the tap.
@@ -151,14 +160,14 @@ Companion to `worldbuilding.md`. Tags: **[Canon]** = decided by the author · **
 - He must drink life blood, or **the putrid smell of his curse** returns.
 - **Battle and honour** push the darkness back: the war restored some of his humanity.
 
-**[Proposal] Powers (what people believe the old lords could do):**
+**[Canon] Powers (what people believe the old lords could do):**
 - **Pulse-sense:** he hears heartbeats and smells blood within a room. He can tell fear, lies, wounds and pregnancy.
   - This feeds his **Masterful Reading**: he reads people the way he reads Mantles.
 - **Unageing:** he looks younger than 46. People credit his Mantle or his vigour.
 - **The Host's weight:** his presence at his *own* table is oppressive. Guests feel watched.
 - **A night-hunter's senses:** he sees well in the dark, and feels most himself at night.
 
-**[Canon] Rules and weaknesses** (kin blood and guest-right confirmed; sunlight and heroic exposure are still proposals):
+**[Canon] Rules and weaknesses:**
 - **Kin blood is "quiet" blood.**
   - Drinking from his children doesn't feed the Myth, because the blood stays in the family: no outside victim, no story, no whispers.
   - **Strangers' blood is "loud":** every outside victim is a potential story that strengthens the monstrous version of the Myth.
@@ -167,6 +176,7 @@ Companion to `worldbuilding.md`. Tags: **[Canon]** = decided by the author · **
   - He cannot cross a threshold as a guest uninvited, and he cannot feed under another's roof while he is their guest.
   - This ties into the hearth-blessing and guest-bread canon. **It makes Season calls awkward**, and explains the town house routine.
 - **Sunlight:** fatigue and glare, not burning. He prefers night sessions of Parliament and evening events.
+  - **[Canon] On campaign, sunlight barely touches him:** his heroic deeds balance it out, so he is fully effective on the battlefield **as long as he respects the warrior's code of honour.**
 - **Heroic exposure is his medicine.** Public deeds pull his Myth back toward "the Red Marquess, hero of the war."
   - **[Hook]** He has a selfish motive to want another war.
 
@@ -192,6 +202,13 @@ Companion to `worldbuilding.md`. Tags: **[Canon]** = decided by the author · **
   - **Nest** (short and old; the Nest ferch Rhys connection)
   - **Angharad** ("much loved")
 
+**[Canon] How she shared the name with Gwion:**
+- After **a heated dinner argument** between the Lord and the Lady over whether the heartland's assimilation of tradition threatens the old ways, Gwion leaves the table confused and a little afraid, vowing he'll "never surrender to the heartland ways."
+- Aveline patiently explains that it's more complicated than that. **Her own name is a concession to court standing,** like wearing a mask, while underneath, **her middle name speaks the truth of who she is at heart: Lleucu. Of the march.**
+- Gwion simplifies it: *"So when you're with family you're Lleucu, and when you're with strangers you're Aveline?"* She smiles and agrees that **when it's just the two of them, he may call her by her "secret name." But only then.**
+- **[Canon] A recovered memory:** Lleucu slowly recovers this memory from Gwion's as the pair settles into being Aveline. **It's one of the steps toward realising she is a composite persona, partly made from Aveline herself.**
+  - **[Proposal]** Notice the inversion: Aveline's rule was "Lleucu in private, Aveline in public," and that is exactly how the system now lives. The Tulpa is literally obeying a promise she doesn't yet remember.
+
 ### Mantles (Huntress main is **[Canon]**; the rest are proposals)
 | # | Archetype | Role | Colour (public) | Notes |
 | --- | --- | --- | --- | --- |
@@ -208,9 +225,10 @@ Companion to `worldbuilding.md`. Tags: **[Canon]** = decided by the author · **
 
 ### Arts
 - **[Canon] Piercing rites:** almost mandatory for anyone with a ranged weapon. Without them her arrows can't bite against Mantled foes, in or out of a Mantle.
-  - **[Proposal]** She inscribed her own arrows: a quiet, meticulous evening ritual. **Her old fletching may survive in a case the 2nd son inherited.**
-  - **[Proposal]** It reconciles with the Crown's restriction (worldbuilding §1.2): nobles with ranged Mantles are **licensed by birth**. The restriction falls on commoners outside the army.
-- **[Proposal] Lullaby rite:** she used it on the 2nd son. **A key memory.**
+  - **[Canon]** She inscribed her own arrows: a quiet, meticulous evening ritual. **Her old fletching may survive in a case the 2nd son inherited.**
+  - **[Canon]** It reconciles with the Crown's restriction (worldbuilding §1.2): nobles with ranged Mantles are **licensed by birth**, which puts ranged and melee weapons on an equal footing for them. The restriction falls on commoners outside the army.
+  - **[Canon]** The rite only takes hold on a projectile that has been **let go** (worldbuilding §1.2), so it never works on spears, lances or swords.
+- **[Canon] Lullaby rite:** she used it on the 2nd son. **A key memory.**
 - **Hearth blessing / guest-bread:** future-hostess training.
 - **Mending**, **gown-keeping**, **complexion tonic**: debutante preparation.
 - *Mundane skills:* harp, singing, French (or the heartland tongue), deportment, the household accounts she was being taught.
@@ -251,10 +269,12 @@ Companion to `worldbuilding.md`. Tags: **[Canon]** = decided by the author · **
 
 **[Canon] Why not the Herald:** it is niche and **gauche to wear at court**. Its real use is learning: correspondence, languages, and an intuitive grasp of ceremony.
 
-**[Proposal] The Couturier's double edge:**
+**[Proposal] The Couturier's double edge:** *(the author is still workshopping this)*
 - It is **the only Mantle that isn't inherited from someone else's Role.** Its colour may answer to the host more than to "Aveline."
 - **It shapes the body in public:** gowns cut to flatter, to hide, to suggest. The transition Myth has a tailor.
 - **[Hook]** Famous dressmakers wear the Couturier openly (worldbuilding §4c). A rival or modiste may recognise skill in her gowns that a "sickly recluse" shouldn't have.
+- **[Canon] A disarming Mantle:** a Couturier Mantled at a gathering is useful for quick, perfect touch-ups and alterations. **By taking the area's main Mantle slot, it also defuses tension:** like the Host/Hostess, it says *"You're safe here. I'm not armed, and nobody else can be."*
+  - Not literally true: one or two others could still Mantle up and threaten for a few minutes before the strain bites. But the spirit of the message holds.
 
 | Facet | At 14 | By the Season |
 | --- | --- | --- |
@@ -263,12 +283,12 @@ Companion to `worldbuilding.md`. Tags: **[Canon]** = decided by the author · **
 | Breadth | Novice | **Accomplished.** Myth-fed, with a clean Change. |
 | Reading | Competent: he watched his sister, and hears the whispers | Accomplished |
 
-### [Proposal] Arts
+### [Canon] Arts
 - **[Canon] Piercing rites:** required to be a credible Huntress, in or out of a Mantle.
-  - **[Proposal] Two-stage learning:**
+  - **[Canon] Two-stage learning:**
     1. **Before:** he watched his sister inscribe her arrows in the evenings and learned the forms by heart, without a licence and without ever firing one in earnest.
     2. **After the handover:** drilled hard and fast, since "Aveline" already knows them. Any clumsiness has to happen in private, before the Season.
-  - **[Proposal]** He inherited her fletching case, so he shoots her arrows until his own inscriptions match her hand. **The Role rewards copying her exactly**, which is a quiet pressure toward erosion.
+  - **[Canon]** He inherited her fletching case, so he shoots her arrows until his own inscriptions match her hand. **The Role rewards copying her exactly**, which is a quiet pressure toward erosion.
 - **Restorative draught:** self-management of anaemia, routine since childhood.
 - **Lullaby rite:** learned from his sister.
 - **Mending**, **gown-keeping**, **complexion tonic**: the latter covers his pallor.
@@ -291,20 +311,27 @@ Companion to `worldbuilding.md`. Tags: **[Canon]** = decided by the author · **
     - Marie Antoinette riding astride in breeches caused a scandal.
     - Nadezhda Durova served in the Russian cavalry from 1807, disguised as a man.
     - Astride riding for women was **scandalous in 19th-century Britain until the 1910s**, but normal for working countrywomen and on frontiers.
-- **[Proposal] In-world rule** (it fits the challenge-etiquette canon that **dress and behaviour declare standing**):
+- **[Canon] In-world rule** (it fits the challenge-etiquette canon that **dress and behaviour declare standing**):
     - **Astride = a Martial declaration.** It's acceptable for women in uniform, Cavaliers, and on the battlefield, where practicality wins. Nobody mocks a woman Cavalier for her seat.
     - **Side-saddle = Civil.** It's the Rotten Row and hunting-field default for a lady.
     - **The march differs:** hill-country women ride astride for practicality, so in the march it reads as "rustic," not scandalous.
 - **[Canon] Gwion knows both seats.** Raised as a son, he's used to riding astride. **In public as Aveline he defaults to side-saddle,** to be believed as a delicate woman.
-    - **[Proposal]** Side-saddle is the harder seat for him, so his Huntress archery from the saddle is weaker in public than it could be. Hidden depth.
+    - **[Canon]** Side-saddle is the harder seat for him, so his Huntress archery from the saddle is weaker in public than it could be. Hidden depth.
     - **[Hook]** A servant, groom or neighbour remarks that "Miss Aveline used to ride like a man" during the 1st son's tenure.
-- **[Open] The mounted Lists** (worldbuilding §5d). Gwion knows he would do well astride, but cover comes first. Options:
+- **[Canon] The mounted Lists** (worldbuilding §5d). Gwion knows he would do well astride, but cover comes first. The options he weighs:
   | Choice | Gain | Risk |
   |---|---|---|
   | **Abstain** ("keeping reserve") | Safe; fits a Civil lady | Feeds the "sickly recluse" Myth he needs to overwrite |
   | **Enter side-saddle** | A Civil sensation; feeds the prodigy Role and Breadth Myth | Torn muscles from forced twists; a too-good score raises "where did she learn that?" |
   | **Enter astride** | Shows true skill | A Martial declaration far too early. **Saved for the Green Blade turn** |
-    - **[Proposal] Middle path:** someone **presses** her into entering side-saddle, a rival or the betrothed's family expecting her to fail. She deliberately scores *well but not too well*: reserve inside a handicap. **The Green Blade arc may close the loop:** the moment she first rides astride in public is the moment she declares herself Martial.
+    - **[Canon] Middle path:** someone **presses** her into entering side-saddle, a rival or the betrothed's family expecting her to fail. She deliberately scores *well but not too well*: reserve inside a handicap. **The Green Blade arc closes the loop:** the moment she first rides astride in public is the moment she declares herself Martial. Her progress in the saddle shows her growth as a character.
+
+### [Canon] What she wants: the Season goal
+- **Honest friendships and steady relationships.** Gwion grew up a lonely child and barely knows what those look like, but he craves them and needs to try.
+- **Trust is the obstacle:** the memory of Eirlys and his own secrecy make it hard to trust anyone fully.
+- **Lleucu wants Gwion safe and happy.** At first **she enforces the boundaries**, until Gwion learns to stand his own ground.
+- **Authenticity inside the masquerade:** while pretending to be someone else, they need authenticity to feel any peace or relief. That means authenticity *from others*, and **the safety to be themselves.**
+- **What that looks like:** practising the harp, exchanging barbs, friendly rivalries, and helping themselves and others reach their goals and dreams.
 
 ### [Canon] The Tulpa
 - **Conjured at 13**, when he was ignored once too often by his flaky friend. He pulled on a thin dread: **"he's insane, like the whole house."**
@@ -315,10 +342,12 @@ Companion to `worldbuilding.md`. Tags: **[Canon]** = decided by the author · **
 - **[Canon] The storybook:** a favourite of the eldest, and so of the 2nd son. Aveline read it to him.
   - It is a **simple fable: safe, hopeful, comforting.**
   - **Its message:** even mighty challenges can be overcome *without magic*, through wits and by being true to yourself.
-  - **[Proposal] Sketch, in three beats:**
-    1. In a land with no Mantles, a girl's little brother is taken by a giant, or a cruel lord, who keeps whatever he wins.
-    2. She can't outfight him. She wins three contests by wit: a riddle, a bargain, a test of honesty. **Each time she refuses to pretend to be someone else, and the refusal is what wins.**
-    3. She brings her brother home. The last line is something the Tulpa still says, e.g. *"And she was no bigger than before, and no less herself."*
+  - **[Canon] Sketch, in three beats:**
+    1. In a land with no Mantles, **an older woman** (a cruel lady, a jealous queen or a witch) takes a girl's little brother. Traditionally, girl heroes were often pitted against older women rather than giants. The opening sets out **three traits people use to disparage the girl:** she is *rambunctious*, *handier with a stick than a needle*, and has *a tongue that has tasted as many lies as truths.*
+    2. She can't outfight the woman. **Each disparaged trait becomes the thing that outwits her,** once per contest. **The girl wins by being exactly what she was scolded for.**
+    3. She brings her brother home. The last line: *"And she was no bigger than before, and no less herself."*
+  - **[Canon] The half-remembered saying:** the Tulpa teases and congratulates Gwion with *"And you are no bigger than before,"* yet is **puzzled about what the saying means.** She only understands once she regains the memory or reads the tale.
+    - **[Proposal]** It's a small, repeatable tell that she was built from the book, and a measure of her recovery: the day she finishes the line herself is a milestone.
   - **[Proposal] Folk precedents** (to keep it fresh, not an expy): *Molly Whuppie* (a small girl outwits a giant) and *Kate Crackernuts* (a girl protects her stepsister from a jealous queen's curse). The latter echoes the household uncomfortably.
   - **[Proposal] The irony:** the fable's whole moral, "be true to yourself," is something the host can't live, and the Tulpa embodies it from the inside.
   - **[Hook]** The book is a physical object. A sibling, the Lady, or the betrothed finding it, and recognising it, is a reveal waiting to happen.
@@ -326,13 +355,13 @@ Companion to `worldbuilding.md`. Tags: **[Canon]** = decided by the author · **
   - **The public persona carries the sister's public name; the Tulpa carries her secret one.**
   - The eldest's name is literally split between the role and the person.
 
-### [Proposal] Myth
+### [Canon] Myth
 | Thread | Source of belief | Effect | Rule or risk |
 | --- | --- | --- | --- |
 | **The Role: "Lady Aveline"** | The court, the betrothed's family, the press | Picks up the eldest's and the 1st son's showcased skills unusually fast; Breadth grows | Must **keep performing**: one public failure risks the "fallen prodigy" story |
 | **The transition** | Everyone who sees "her" as a woman | Body follows belief; **fertility by belief** by the wedding (canon) | Doubters slow it; **the betrothed's belief matters most** |
 | **The recluse** | Six years of silence ("sickly," "mad," "hidden") | Pallor, frailty; a ghostly reputation | **Pulls toward invalid or ghost.** Must be overwritten by a visible, vital Season |
-| **"Insane, like the whole house"** | Household whispers, his own dread | **The Tulpa's origin** | **[Open]** Does the whisper still lean on them? |
+| **"Insane, like the whole house"** | Household whispers, his own dread | **The Tulpa's origin** | **[Canon]** Once Lleucu is his constant companion, **Gwion stops leaning on it.** The whispers don't vanish until the House is settled and Aveline returns home happy and fulfilled enough to silence the doubters |
 | **The blended ideal** | Continuity of all the "Avelines" | Drift toward a composite of the eldest, the 1st son's version, and the host and Tulpa (canon) | **Where does choice end and imposition begin?** |
 
 - **Wild-magic rule:** his only real controls are **whether to pull on Myth**, and **PR**: steering the story people tell.
@@ -558,7 +587,28 @@ Companion to `worldbuilding.md`. Tags: **[Canon]** = decided by the author · **
 - **The flaky friend:** a broken friendship to rebuild, and a threat.
 - **A Patroness:** a mentor and gatekeeper.
 - **Rival debutantes:** at least one honest rival who becomes a grudging friend through the Lists.
-- **The 1st son:** brother, bully, and the previous wearer of her life.
+- **The 1st son:** brother, bully, and the previous wearer of her life (§4.4).
+
+### 4.4 The 1st son (now "Gwion")
+*A stub. The full estate pass is still queued.*
+
+**[Canon] Mantles: why he could never be Aveline**
+| Mantle | Colour | Notes |
+| --- | --- | --- |
+| **The Champion** (house founder) | **[Proposal]** His best; the heir's Mantle | Male, martial; his **first** military Mantle |
+| **The Huntress** (Aveline's) | **Orange**: below the yellow she had at her death | **A dead giveaway** that he never stood a chance in her role. The family had to hand it to Gwion |
+- **[Canon] The wrong first Mantle** (worldbuilding §4.7): girls learn their first military Mantle from a foremother; he learned a man's first, and **struggled to shift to the Huntress.** Gwion, taught to respect the Huntress early by his sister, sidesteps the problem entirely.
+
+**[Canon] The bully**
+- **He doesn't mean harm and doesn't see himself as a bully,** but he vents his frustration with the whole situation on Gwion.
+- **Jealous and ashamed,** and at the same time **relieved** he no longer has to play a woman.
+- **He will never hear his own name again.** Every time someone calls *him* "Gwion," it reminds him, and gives all those feelings a target.
+- **He softens through:**
+  - distance;
+  - no longer being scrutinised as Aveline;
+  - **the shared bleedings** that feed their father through the Season (worldbuilding §6);
+  - realising how deeply he hurt Gwion, if and when Gwion or Lleucu throws it back in his face.
+- **[Open]** His birth name, the one he gave up.
 
 ---
 
@@ -589,13 +639,13 @@ Companion to `worldbuilding.md`. Tags: **[Canon]** = decided by the author · **
 | **Rank** | Commoner; a **Concord ward**, sponsored into the Season as the Office's piece |
 | **Standing** | Civil (presented as a healer); secretly the most dangerous weapon in the room |
 
-**[Proposal] Origin:**
+**[Canon] Origin:**
 - A **foundling raised at a Station's charity house** in a converted heartland province, where the god is loved.
 - **Devotion was her only possession.** She prayed to the god as a lonely child prays to a parent, and that devotion was enough to invoke his Mantle.
 - **[Canon] She hid the side effects,** and she learned to hide out of fear: **odd children were sent away.** Feathers went into the fire, eyes under bandages, mood swings into prayer.
 - **[Canon]** Healing rumours brought the Concord. She leaned into her Myth and the side effects vanished. **They saw, and took her in.**
 
-**[Proposal] Mantles:**
+**[Canon] Mantles:**
 | # | Archetype | Colour | Notes |
 | --- | --- | --- | --- |
 | Main | **The high god** (the eldritch one) | **Blue** held stably; **violet** in a full manifestation | **A stable vessel**, the first since the Conqueror. Healing benevolence when held; White Night when it slips |
@@ -608,11 +658,75 @@ Companion to `worldbuilding.md`. Tags: **[Canon]** = decided by the author · **
 | Breadth | Novice: 2 Mantles plus Concord rites |
 | Reading | **Untrained, by design.** She's kept ignorant of other Mantles and of Myth. **Knowledge would be independence.** |
 
-**[Proposal] Arts** ([Canon] trained in the Concord's rites):
+**[Canon] Arts** (trained in the Concord's rites):
 - **Blessing**, **hearth blessing**, **mending**: the visible saintly repertoire.
 - **Quieting incense:** she lights it herself, believing it calms the god. It actually dampens her own Myth, so she depends on it more.
 - **The Litany** (see the Handler): she knows it by heart, and it puts her under.
 - *Mundane skills:* nursing, plain sewing, reading scripture. **Barely any dancing or etiquette;** the Season is genuinely foreign to her.
+
+**[Canon] Etiquette arc: a progression**
+1. **The charming foreigner (debut).** Her mistakes read as sweet because she "isn't one of us." She gets the *gaijin* pass.
+2. **The doll by design (the cause).** Clementia keeps her untrained on purpose, so she stays decorative, endearing and unserious.
+3. **The uncanny valley (her rebellion).** Frustrated that nobody takes her seriously, she crams etiquette from whoever is available. Half-learned rules start reading as **mockery or offence.**
+4. **Soft sabotage (the counter-pressure).** Some male leads try to keep her from learning, either to "protect her innocence" or because they feel she doesn't belong.
+
+**[Proposal] Rules she breaks.** Each rule has a version for stage 1 (forgiven) and a version for stage 3 (offensive).
+
+*Real-world rules (Victorian / Regency):*
+
+| Rule | Stage 1: forgiven | Stage 3: offence |
+|---|---|---|
+| **Introductions:** you may not address someone you haven't been introduced to. In the street, the lady bows first. | She chats warmly with a duke before anyone presents her. The court finds it adorable. | She learns about **the cut** and uses it on a social climber who hasn't actually wronged her. It's a public execution she didn't intend. |
+| **The dance card:** no more than two dances with one man, since a third means an understanding. | Three dances with Thibault "because he dances well." Laughed off. | She refuses a second dance to seem proper. It's read as a pointed slight on a man who's courting her. |
+| **Gloves:** stay on at a ball except at supper. A bare touch is intimate. | She un-gloves to take someone's pulse. "Saintly." | She un-gloves to shake a gentleman's hand "like equals," having heard that's modern. Scandal. |
+| **Mourning grades:** black, then half-mourning (grey, lavender), then colours. | She compliments a widow in lavender on her "cheerful" dress. Forgiven as innocence. | She lectures a lady for leaving black "too soon," quoting the rule book. Cruel. |
+| **Forms of address:** Your Grace, my lord, Miss Smith (eldest) vs Miss Jane Smith (younger). | She calls everyone "Sister" and "Brother," Concord style. | She gets titles right but ranks two people wrongly in the same breath. That's worse than not trying. |
+| **Calling cards:** bent corners carry meaning, and the length of a visit is fixed at about 15 minutes. | She stays an hour because the conversation was nice. | She leaves at exactly 15 minutes mid-sentence, clock in hand. |
+
+*This world's rules:*
+
+| Rule (source) | Stage 1: forgiven | Stage 3: offence |
+|---|---|---|
+| **Never ask which ancestor someone wears** (worldbuilding, "Etiquette of reserve") | "Whose Mantle is that? She's lovely!" Saints wear their ancestry openly, so she doesn't see the problem. | She phrases it correctly and indirectly. That reads as **pressing**: deliberate fishing for a rival's counters. |
+| **Showing everything is vulgar**, like discussing income | She performs small miracles freely. The Saint's exemption covers it, since the Concord *wants* the display. | She starts holding back "properly," and gossip reads it as **the Saint's power fading**. The Concord panics, and her Myth wobbles. |
+| **A guest Mantling at a ball is a scandal;** the host's slot means "this house is guarded" (§4.1) | She Mantles to heal a lady who fainted. Kindness, forgiven. | She does it again knowingly. Now it says **"your house isn't safe"** to the host, who takes it as a challenge. |
+| **Commoners doff when a lord passes** (§4.1) | She doffs her own Mantle reflexively when a duke passes. Her old habit is endearing. | She has learned she outranks a minor baron and stops doffing for him. He takes it as a deliberate cut. |
+| **Never force a revive in a casual bout** (refined brutality) | She cheers the winner who forced a revive: "So decisive!" | She treats the loser with pity, publicly. That insults *him* far more. |
+| **The bare scar** is a mark of nerve | She heals an unmantled scar out of mercy and **erases a young man's *Schmiss***. He can't object to a Saint. | She offers to do it again, now aware of what it means. It reads as **"your courage is a blemish."** |
+| **Guest-bread / hearth blessing** belongs to the host (§1.2) | She blesses the bread herself, as clerics do at home. | She waits for the host's blessing, then corrects his wording. |
+
+**Who does what:**
+- **Clementia (stage 2):** curates which mistakes are allowed to happen. Some "accidental" breaches are staged, like the healed scar or the fainting lady.
+- **Soft sabotage (stage 4):** a lead who "protects her" by answering for her, by withholding the rule book, or by laughing first so the room laughs *with* her rather than at her. It's kind on the surface and a leash underneath.
+- **Who teaches her honestly?** **[Pinned]** The author leans toward a mix:
+  - **Eirlys** corrects her amicably but laughs it off, so Agnes thinks it's fine and sees no need to change.
+  - Later, **Aveline** takes her aside and tells her plainly that she's making a fool of herself and these rules matter. She doesn't say "Myth" aloud, but she's thinking it.
+
+**[Canon] Scene: the Litany and the incense**
+- Once Agnes starts to doubt her path because of Gwion's arguments, **she brings Aveline to her Handler.**
+- Clementia is persuasive, gently coaxing, offering to *help* him. When Gwion balks, she tells Agnes to **teach him the Litany.** Agnes eagerly obeys, since it's deeply familiar.
+- As Agnes has him repeat the words, **she slips into the trance:** grinning, peaceful, almost drunk. **Gwion feels himself drifting after her.**
+  - *Real mechanism:* someone who knows what a trance looks like is less likely to find their own matching behaviour odd. A receptive subject can go under just from watching, or holding the gaze of, someone already under.
+- Meanwhile **Clementia lights Quieting incense.** Lleucu has been whispering doubts and warnings in headspace, and **she cuts off mid-sentence.**
+- The silence jolts Gwion out of his own trance. He reaches for her in headspace and **feels nothing.** Aloud, panicking: *"Lleucu?"* No answer.
+- Clementia, with pity: *"It's merely some Quieting incense. It keeps the whispers away."*
+  Gwion: *"I'm not hearing no whispers!"*
+  Clementia: *"No, I guess not. They must be full-fledged conversations if you've gone so far as to give them a name."*
+- **He runs,** desperate to get Lleucu back. **She returns** after several breaths away from the incense.
+- **[Proposal] What it costs him:**
+  - **Clementia now holds a name**, and the knowledge that "Aveline" hears a voice she treats as a person. Her "second hound" interest (§5.2) gets sharper.
+  - **Gwion has watched the Handler's method work on himself,** which is why he can never again dismiss the Litany as mere prayer.
+- **[Canon] Mechanism: the incense dissolves the wall, not Lleucu.**
+  - Lleucu is **not a product of Myth.** But Gwion pulled a little on Myth to reinforce the dissociation he needed to create her, so **the wall between them is Myth-reinforced.**
+  - The incense dampens that Myth and the wall drops. **Their thoughts blend:** Gwion can no longer tell Lleucu apart from himself.
+  - The ongoing momentum of their shared emotions makes him believe **he's the only one fronting.** In fact they're **blended**, and Lleucu is still there, just indistinguishable from him.
+  - *Real-world grounding:* it's common for plural people to be unsure who's fronting, or for one headmate to front believing they're another and only realise afterwards.
+  - Plurality stays a difference, not a power: Myth only reinforced the separation; it didn't create the person.
+- **[Proposal] Consequences:**
+  - **Retroactive realisation:** some of what "Gwion" said in that room (the panic, the "I'm not hearing no whispers!") may later turn out to have been Lleucu, or both of them. It's a quiet, devastating re-read for the reader.
+  - **Other plural people** whose separation isn't Myth-reinforced would be unaffected by the incense. This makes Gwion's case unusual, which is a clue for anyone at the Concord who studies it.
+  - **The Concord's reading is wrong but self-confirming:** Clementia sees the "whispers" vanish and concludes they were Myth. Her method appears to work.
+  - **A darker use:** repeated exposure could wear the wall down over time. That's a real threat for the Handler to wield, deliberately or not.
 
 **Myth: "the Saint"** (canon mechanics from worldbuilding §4d):
 | Thread | Source | Effect | Rule or risk |
@@ -623,19 +737,40 @@ Companion to `worldbuilding.md`. Tags: **[Canon]** = decided by the author · **
 | **"The Conqueror come again"** | The march's fear | Pushes her toward the Conqueror | **She's least stable in the march** |
 | **[Proposal] "The Handler's Saint"** | The inner circle *and the Saint herself* believe she can't hold the god without the Handler | **The dependency becomes physically true** | See "the cost of leaving" |
 
-**[Proposal] Why she believes she's happy, and partly is:**
+**[Canon] Why she believes she's happy, and partly is:**
 - **Warmth, food, purpose, and being loved by crowds:** everything a foundling never had.
 - **The god's anger is soothed** whenever the Handler is near. She feels it as peace.
 - **The Handler is the first person who ever chose her.**
 - She gets to *heal people.* That joy is real and unmanaged, which makes the rest harder to question.
 
-**[Proposal] The cost of leaving: almost unimaginable.**
+**[Canon] The cost of leaving: almost unimaginable.**
 1. **Her body:** her stability now *runs on* the belief that the Handler holds her together. Doubt it, and **the god surfaces:** feathers, eyes, mood storms, at worst a violet manifestation in public.
 2. **Her oath:** her obedience vow was sealed by **oath-binding.** Breaking it has a magical cost (pain, sickness, the Mantle rejecting her) on top of being a mortal sin.
 3. **Her identity:** "Agnes" is the only self she's been allowed to build. Without the Saint, she's a nameless foundling again.
 4. **Her Myth:** the public's Saint can't simply retire. A fallen Saint becomes the "Harlot Saint" or "the Conqueror come again."
 5. **Her life:** **the martyr option.** A Saint who strays may be worth more dead.
 6. **Her purpose:** the people she heals. Leaving means abandoning them, and the Handler will make sure she knows it.
+
+**[Canon] A way out must exist.** The author is angling for a triad ending, so there must be a path for Agnes to leave through enough character development. **It must not be easy:** it drives much of her side of the conflict. Why she needs to leave and what it takes: see the proposal below. **[Open]** Which breaking point is the final straw: too early to say, the story isn't written yet.
+
+**[Proposal] Why she needs to leave: candidate breaking points** (could escalate in sequence):
+1. **Her healing is rationed.** She learns Clementia chooses *who* she's allowed to heal, steering miracles toward donors and away from the march. Her one unmanaged joy turns out to be managed. (Real: royal-touch tokens were rationed by ticket.)
+2. **The Way is the conquest.** At a Station, through the march folk song (§5.1 hook), she learns her pilgrimage retraces a massacre. She is the Conqueror come again *by design*.
+3. **The reunion scheme.** She's being steered toward Renaud so Crown blood plus the god reunites the Conqueror's legacy (§6). She is a vessel, not a bride.
+4. **Columba.** She finds the previous hound alive and captive (§5.4), and sees her own future: the martyr option is not hypothetical.
+
+**[Proposal] The six locks and their keys:**
+
+| Lock | Development (internal) | Help (external) |
+|---|---|---|
+| **1. Body:** stability runs on belief in the Handler | She holds the god **once without Clementia,** under pressure, and realises the steadiness was hers all along | Someone she trusts **stays calm beside her** during a slip (Aveline, who knows what a borrowed self feels like) |
+| **2. Oath-binding** | She learns the oath binds *Agnes, the Saint*, not the foundling | **A name-change loophole:** a renaming (true name, or "Nell") falls outside the oath. Costly: she loses a piece of herself (characters §0 "Concord names") |
+| **3. Identity** | She builds a self in private, with friendships, taste and opinions | **The triad:** Aveline and Renaud see her as a person, not a Saint |
+| **4. Myth:** a Saint can't retire | She learns to **steer** her story (to become "Retold," worldbuilding §7) | **Eirlys's column** reframes her exit; or Renaud's Good Prince Myth lends cover. A royal-adjacent marriage is the one exit the public accepts |
+| **5. Life:** the martyr option | — | **Leverage on Clementia**: her birth name (§5.2 hook), or Columba's existence. The Crown's protection, through Renaud |
+| **6. Purpose** | She learns healing doesn't need a pulpit | **A charitable foundation** outside the Concord, under Crown or ducal patronage (real: Florence Nightingale's Fund, 1855) |
+
+- **The shape:** the internal keys come first and take most of the book; the external keys only work once she's ready to use them.
 
 ---
 
@@ -909,10 +1044,29 @@ Companion to `worldbuilding.md`. Tags: **[Canon]** = decided by the author · **
 | --- | --- | --- | --- |
 | **Main** | **The Confessor-King:** a sainted king of the cadet line (models: Edward the Confessor, Louis IX) | **Cyan** (thought true name) | Endurance, composure, a calming presence. The **royal touch** legend (real: English monarchs touched the sick for scrofula until 1714, French until 1825); in-world, crowds believe it heals, which is Myth fuel |
 | **Utility** | **The Steward / Chancellor** | **Green** | Accounts, contracts, the appanage. The Contract Man's eye |
-| **Utility** | **The Conqueror, by epithet only** ("Our Lady of the Way") | **Orange** | Ceremonial only: state occasions, processions. The reason Clementia sees him as half of a reunion. **A prince who wears his foremother:** a quiet gender echo |
+| **Utility** | **[Canon] The Conqueror, by epithet only** ("Our Lady of the Way") | **Orange** | Ceremonial only: state occasions, processions. The reason Clementia sees him as half of a reunion. **A prince who wears his foremother:** a quiet gender echo |
 | **Optional** | **The Cavalier** | Red–orange | Processions and hunts; every prince rides |
 
 - **Command:** Competent. **Breadth:** 3–4, a clean Change (well-tutored). **Reading:** Accomplished at people; **Novice at Myth.** He knows the doctrine of the Fallen, not the truth.
+
+### [Canon] Why he can wear the Conqueror (ceremonially)
+**Ceremonial use needs no battle techniques:** only presence, the procession, and *being seen* in her. Her drifted Mantle (worldbuilding §3c) only punishes those who fight in it. So a wearer needs only **faint marks of the *licensed* version:** enough to be a holy sign, not enough to fight.
+
+| Trait | Source in her legend | How it shows on him | Reads as |
+|---|---|---|---|
+| **The Way's eye** | Eyes: "she sees the whole road" | A **ring of amber around grey irises,** and far-sight sharper than any huntsman's. He notices everything at a distance and misses nothing in a crowd | Holy sign (painted on royal portraits) |
+| **The light frame** | Hollow bones, the bird | **Slight and long-limbed for a man,** lighter than he looks. Lifted, he weighs less than he should. It fits "softer men" and **a prince who wears his foremother** | Mostly invisible; tailors and dancing partners notice |
+| **The cold hands** | Talons | **Long, slightly hooked nails that grow fast** and that his valet must pare daily. Nothing more | A private embarrassment, hidden by gloves |
+| **No dysmorphism of the legs or arms** | Digitigrade legs, extra joints | **Absent.** Their absence is *why* he's ceremonial only; a "true" child of the line would show them | It marks him as the ordinary end of the inherited spread (worldbuilding §2a) |
+
+- **Her anger vs his Good Prince Myth:** the Conqueror's wrath **is in the Mantle,** and the Good Prince Myth forbids it.
+  - Wearing her, he feels **a fury that isn't his**, and his own Myth clamps down. That's why he wears her **only briefly and only at orange.**
+  - **Hook:** the one time he lets the wrath through, publicly, it's on Aveline's or Agnes's behalf. **Both Myths wobble at once.**
+- **The march sees the other vessel:**
+  - To heartland crowds, the amber eye is holy.
+  - **To march folk, it's the eye-taker's mark** (worldbuilding §2a "one Myth, two vessels").
+  - Gwion's family would notice at once. **Lleucu, with Aveline's march memories, finds it unsettling before she knows why.**
+- **The feathers stay regalia:** a feathered processional cloak, not part of his body. Displayed, it marks the occasion as ceremonial and says "I'm not here to fight."
 
 ### [Proposal] Arts
 - **Contract seal** and **Registry ink:** he can read the contract better than the Lady.
@@ -944,8 +1098,8 @@ Companion to `worldbuilding.md`. Tags: **[Canon]** = decided by the author · **
 3. ~~Eldest's Huntress~~ → **[Canon]**, with Piercing rites.
 4. ~~Illegitimacy whisper~~ → **[Canon]** dysphoria; physical drift stays ambiguous.
 5. ~~4th Mantle~~ → **[Canon]** the Couturier.
-6. ~~Storybook~~ → **[Canon]** the eldest's favourite fable. **[Open]** Does the sketch fit?
-7. **Names:** **[Open]** Do the faction themes (Welsh / Anglo-Norman / Latinate Concord) fit? Lleucu, or a more readable alternative?
+6. ~~Storybook~~ → **[Canon]** the eldest's favourite fable; sketch revised (an older woman as antagonist, three disparaged traits that win, the Tulpa's half-remembered saying).
+7. ~~**Names:** faction themes~~ → **[Canon]** Welsh / Anglo-Norman / Latinate Concord, with the pronunciation guide. Lleucu stays; no in-text "Lucy" device.
 8. ~~Age gap~~ → **[Canon]** all three combined.
 9. ~~Cavalier's horse~~ → **[Canon]** revival is the rider's choice, at the cost of one life.
 10. **[Open]** The Martial lead: does fosterage at Talgarth work, or did they meet elsewhere (a Patroness's house, a regimental camp)?
@@ -953,8 +1107,15 @@ Companion to `worldbuilding.md`. Tags: **[Canon]** = decided by the author · **
 12. **[Open]** Which archetypes in the relationship web (§4.3) does the cast actually include? *(Deferred.)*
 13. **[Open]** The Saint's names (Agnes / Nell) and the Handler's (Mother Clementia): do they fit?
 14. ~~The previous hound~~ → **[Canon]** alive, captive, angelic parody; holds the name Nell (§5.4). **[Pinned]** Where is the hold? Decide by plot convenience, when Gwion needs the means to investigate.
-15. **[Open]** Should the Litany trance stay clearly separate from plurality, or be how Gwion recognises dissociation?
+15. **[Open]** Should the Litany trance stay clearly separate from plurality, or be how Gwion recognises dissociation? **[Canon]** The Litany-and-incense scene (§5.1) shows Gwion can be pulled into the trance himself.
 16. ~~Betrothed pitch~~ → **[Canon]** a Civil blend of A + C + D; **the King's nephew** (2nd son of a royal duke).
 17. **[Open]** The Duchess: is "the Good Prince" image the right pressure, or the dead-Duke variant?
 18. ~~Betrothed's name~~ → **Renaud** (proposal). **[Proposal]** The Martial lead takes **Thibault**, dropping Amaury to avoid another A-name.
-19. **[Open]** Does he wear the Conqueror by epithet (tying him to Clementia's reunion scheme), or is that too much?
+19. ~~Does he wear the Conqueror by epithet?~~ **Resolved:** yes, ceremonially, through faint marks of her licensed legend. (§6)
+20. ~~Mounted Lists~~ → **[Canon]** the middle path: pressed into entering side-saddle, scores well but not too well; first rides astride publicly at the Green Blade turn.
+21. ~~"Insane, like the whole house"~~ → **[Canon]** Gwion stops leaning on it once Lleucu is constant; it fades only when the House is settled.
+22. ~~Why does Quieting incense silence Lleucu?~~ **Resolved:** it dissolves the Myth-reinforced wall between them, so they blend and Gwion believes he's alone at the front. (§5.1)
+23. **[Open]** The Saint's etiquette: the progression is canon (foreigner → doll → uncanny valley, with soft sabotage pushing back). Still open: which example breaches to keep, and who teaches her honestly. (§5.1)
+24. ~~The Saint's way out~~ → **[Proposal]** drafted: four breaking points, and six locks with internal and external keys (§5.1). **[Open]** The final straw; whether the renaming uses "Nell" (timeline C3).
+25. **[Open]** The Conqueror's symbols (feathers, eyes, anger): hers, the god's, or both? (worldbuilding §3c)
+26. **[Open]** The 1st son's birth name. (§4.4)

@@ -18,6 +18,14 @@ Compiled from brainstorming sessions. Sections are tagged:
 - Regeneration follows the **"witnessed wounds"** model (below). The earlier snapshot-revert idea was dropped. Memories are never restored or reverted.
 - Colour is visible while Mantled. Since Mantles aren't worn constantly, a rival's colour is known only from reputation or a witnessed fight.
 - Anyone within ~100 m feels faint pressure from an active Mantle ("Mantle up at your own peril"), stronger per additional Mantle. The gradient is perceptible roughly every 10–15 m.
+- **[Canon] Pressure scales with colour.** At 10 cm, pressure rises linearly by one step per tier, from **2× at red to 8× at violet**:
+
+  | Red | Orange | Yellow | Green | Cyan | Blue | Violet |
+  |---|---|---|---|---|---|---|
+  | 2× | 3× | 4× | 5× | 6× | 7× | 8× |
+
+  - This gives craftsmen a reason to chase higher colours: **more strength *and* more resilience.**
+  - **Big colour gaps in a duel** (e.g. green at 5× vs blue at 7×) can be overcome by skill, but it's an uphill battle. The weaker fighter takes slightly more damage per blow; the stronger one soaks a little more punishment before falling.
 - **Multiple people may wear the same ancestor at once.** More wearers do **not** make the Mantle stronger; strength depends only on each wearer's devotion, ideological fit and lifestyle fit. Level playing field.
 - **Non-warrior Mantles exist** (craft, scholarly, spell-carrying). They grant perfect execution, not judgment; the wearer must still decide how to apply it.
 - New Mantles form two ways: Myth (a person famous enough on their own merit) or mastering 2+ Mantles into a new style. Fresh, merit-born Mantles are weaker and less refined (no legacy layered on them) but **easier to master**, making them stepping stones for "cultivator" hermits. Lifespans are normal; a hermit's new Mantle is a sacrifice of their life for their legacy.
@@ -31,6 +39,7 @@ Compiled from brainstorming sessions. Sections are tagged:
 - Harm already present when donning (old wounds, illness, poison taken earlier) wasn't witnessed, so it isn't healed. The "don healthy" ritual culture survives.
 - **The ancestor's understanding sets the limits.** A warrior recognises cuts, burns, broken bones and blood loss, but may not understand poison, disease or childbirth. A healer or midwife ancestor does.
   - **The confinement Mantle must be an ancestor who gave birth**, or birth injuries go unhealed. Choosing a confinement ancestor is a serious family decision, and motherly ancestors have high status.
+  - **[Canon] Pregnant warriors need a woman's Mantle.** Healing a damaged pregnancy on the battlefield requires a Mantle from a military *woman* who would have known wounds to a fetus (see §4.7).
   - Poisoners pick poisons the opponent's ancestor wouldn't understand, such as a slow sickness or something unknown in the ancestor's era. **Old ancestors don't understand new weapons** (gunpowder, new toxins), which matters a lot in a 19th-century setting.
   - Having the ancestor misjudge or refuse to heal something is a story device; heretical surgeries could exploit it.
 - Scars only form from unmantled wounds, or wounds the ancestor didn't recognise. Scars are marks of commoners, the unprotected, or honour (a deliberate unmantled duel).
@@ -57,7 +66,7 @@ Compiled from brainstorming sessions. Sections are tagged:
 - **Proportional to the wounds being healed.** It is the ancestors warding off attackers during the vulnerable moment of revival, buying the wearer time.
 - [Proposal] Implications: a big blast tells everyone nearby how badly the wearer was hurt; seasoned duellists read the gust as information. Healing indoors wrecks rooms. A small gust after a "fatal" blow can reveal a faked death.
 
-**[Proposal] Craft Mantle rule-bends**
+**[Canon] Craft Mantle rule-bends**
 - Only **Myth-touched ancestors** carry a small, legend-derived rule-bend (e.g. a "Frankenstein" Mantle for bio-punk surgery). Rare, specific, story-rooted.
 - "Myth-touched" means the ancestor was shaped by Myth **in life** (a person who partly gave in to whispers but died human), or **after death** through legend distorting how they are remembered. *Not* the same as "Myth-born" creatures or their descendants.
 - **Anyone** who wears the Mantle can access the rule-bend; it belongs to the Mantle, not the bloodline.
@@ -65,7 +74,7 @@ Compiled from brainstorming sessions. Sections are tagged:
 
 ### 1.2 The Approved Canon (Sanctioned Magic)
 
-[Proposal] The legal list. Hedge-witch magic is deliberately left open.
+**[Canon]** The legal list. Hedge-witch magic is deliberately left open. **Keep it small** so esoteric capabilities don't warp the story; entries may be added or removed as the story calls for.
 
 **Why sanctioned magic is safe:** under the Myth rules, **widespread belief lets a drop of Myth fuel a reliable effect**. The Concord *wants* these spells common, standardised and boring, because familiarity keeps them stable. Every entry is taught from an approved text, under the consensus Role (see §1.3 "madhouse").
 
@@ -86,6 +95,7 @@ Compiled from brainstorming sessions. Sections are tagged:
 | **Clean water draught** | Purifies a jug of water | Public health |
 | **Lullaby rite** | Gently calms a child to sleep | Seen as a mother's prayer |
 | **Hearth blessing / guest-bread** | Formal guest-right rite | Ancient, popular, keeps outsider Myth down (§2) |
+| **[Canon] Rain Veil** | A rune-marked brooch or hairpin worn on a hat or atop the head. **Rain parts around the wearer like a wedding veil** draped over their form, keeping them dry | Practical, pretty, harmless |
 
 #### Medicine
 | Name | Effect | Notes |
@@ -105,14 +115,14 @@ Compiled from brainstorming sessions. Sections are tagged:
 | **Truth-candle** | Flickers at spoken falsehood (crude; misled by belief) | Courts and confession. Liars who *believe* themselves pass |
 | **Registry ink** | Names written in it can't be altered without trace | Genealogies, marriages, the Ledger |
 | **Licence seal** | Authenticates licensed print | Censorship backbone; forgeries are heresy |
-| **Quieting incense** | Dampens whispers / ambient Myth in a room | Chapels, sickrooms, Inquisitor interviews. **Also blunts sanctioned spells nearby** |
+| **Quieting incense** | Dampens whispers / ambient Myth in a room | Chapels, sickrooms, Inquisitor interviews. **Also blunts sanctioned spells nearby.** **[Canon]** It also dissolves Myth-reinforced dissociation, which blends Gwion and Lleucu (characters §5.1) |
 | **Shriving rite** | Can halt an early Afflicted's transformation | Ties into "treating" Myth-touched |
 | **The Sending** | Fast message between licensed Concord stations | **Concord monopoly on fast communication**, like a telegraph. They read everything |
 
 #### Military (Crown-protected)
 | Name | Effect | Notes |
 |---|---|---|
-| **Piercing rites** | **Enchanted shot, arrows and bolts** that resist Mantle pressure | Lets unmantled troops hurt Mantled ones. The Concord hates this (commoners killing nobles); the Crown insists. Restricted. **[Canon] Almost mandatory for anyone wielding a ranged weapon,** in or out of a Mantle. **[Proposal]** Nobles with ranged Mantles are licensed by birth; the restriction targets commoners outside the army |
+| **Piercing rites** | **Enchanted shot, arrows and bolts** that resist Mantle pressure | Lets unmantled troops hurt Mantled ones. The Concord hates this (commoners killing nobles); the Crown insists. Restricted. **[Canon] Almost mandatory for anyone wielding a ranged weapon,** in or out of a Mantle. **[Canon]** Nobles with ranged Mantles are licensed by birth, which puts ranged and melee on an equal footing for them; the restriction targets commoners outside the army. **[Canon] The rite only takes hold once the projectile is let go.** A held weapon stays mundane, so swords, lances and couched spears can't be enchanted. Arrows, shot, bolts, thrown javelins and **ballista bolts** can. Resilience still means something in melee |
 | **Mantle-sense ward** | Alarm stones that locate active Mantles | Sentries, fortresses, households |
 | **Rest-hastening** | Shortens Mantle exhaustion after revives | Highly restricted; elite troops only |
 | **Dry-powder charm** | Keeps powder dry and stable | Universal in armies |
@@ -188,7 +198,7 @@ Compiled from brainstorming sessions. Sections are tagged:
 4. **Champion warfare dominates for millennia.** Pre-battle duels are decisive. Commoner armies matter for pinning, sieges and occupation.
 5. **Architecture and etiquette shaped by the strain limit.** Wide noble grounds, Mantle districts, fortresses designed around 100 m. Doff at the door; only the sovereign may be Mantled in the throne room; one Mantle per ballroom.
 6. **Entrenched elites.** Revives give old champions long careers. Assassination targets the hours after someone doffs (baths, bedchambers, poison).
-7. **Pariah Myth.** Every village makes its own monsters by exile (scapegoat / *pharmakos*). **The wild is a fossil record of old prejudice.** Myth-born beings that stabilise into species show what each culture once feared.
+7. **Pariah Myth.** Every village makes its own monsters by exile (scapegoat / *pharmakos*). **The wild is a fossil record of old prejudice.** Myth-born beings that stabilise into species show what each culture once feared. **[Canon]** The author likes this; the expansion follows below the list (§2a).
 8. **Guest-right is protective magic.** Bread, a name and a hearth pull a stranger into the in-group and halt pariah-Myth. Breaking hospitality is the gravest sin.
 9. **Fae as fallen traders.** Perpetual outsiders become bargain-bound, unable to lie, unable to enter uninvited. Fae law is a merchant survival code made nature.
 10. **Sacred kings.** Kings worshipped too long turn into Myth-monsters; kings who die in time become clean ancestors and Mantles. Ritual king-killing or abdication after a set term (Frazer's *Golden Bough*). **This Mantle-vs-Myth tension can be the engine of political history.**
@@ -201,10 +211,262 @@ Compiled from brainstorming sessions. Sections are tagged:
 | Printing | **The Inquisition's crusade** (our witch-hunt peak 1560–1630 followed printing and the *Malleus Maleficarum*) |
 | 19th century | Newspapers, mass literacy, penny dreadfuls, railways: **the most dangerous century yet** |
 
-12. **Mantled farmers [Canon: farmers Mantle nearly all the time]** → higher food output → bigger populations → Myth grows earlier. Less need for large-scale slave labour. Peasant revolts are far more dangerous (8× pressure plus a scythe), so lords push Mantle-restriction laws.
+12. **Mantled farmers [Canon: farmers Mantle nearly all the time]** → higher food output → bigger populations → Myth grows earlier. Less need for large-scale slave labour. Peasant revolts are far more dangerous (up to 8× pressure plus a scythe), so lords push Mantle-restriction laws.
 13. **Industrialisation:** the strain limit keeps Mantled industry small and dispersed. **Machines don't count toward the limit**, so factories win. Hence a Luddite-style conflict between Mantled craftsmen and machines, fused with ancestor worship.
 
 **Real-world references:** Alonso de Salazar Frías (Basque witch trials, 1609–14); the Benandanti (Ginzburg, *The Night Battles*); the Index of Forbidden Books; Catholic *latria / hyperdulia / dulia*; *interpretatio romana*; the Papacy outliving Rome.
+
+---
+
+## 2a. Pariah Myth: Roles & Vessels
+
+### [Canon] The rules
+- **Myth-born** are descendants of first-generation Myth-touched beings (e.g. the scapegoat). They include both creatures and human-passing lines.
+- **Myth needs a sentient or sapient mind that accepts it.**
+- **Some animals and intelligent bugs have evolved a sixth sense for Myth,** since sensing it is a favourable trait in this world.
+- **Fear need not match its vessel.** A community's fear defines a **role**; the role waits for **any receptive creature** to fill it.
+  - *Example:* a tribe exiles a scapegoat and fears what it will become. The scapegoat dies alone in the forest, but **the fear remains, and the role is up for grabs.**
+  - If people fear gremlins and a fox steals poultry, the fox may gradually come to **walk more upright and gain some sapience** until it embodies the gremlin.
+- **Bugs are harder.** They need a fear aimed squarely at them (arachnophobia, other bug phobias), but they too can gain sentience, and eventually sapience.
+- **Empty places** have no vessel of their own. But **if stories abound, the role waits** for a creature to fill it.
+- **The creature inherits the rules of the specific stories told about it**: its powers, its weaknesses, its taboos.
+
+### Real-world precedents
+| Precedent | Why it fits |
+|---|---|
+| **The Beast of Gévaudan** (France, 1764–67) | ~100 deaths. The press (the *Gazette de France*, then Europe-wide) inflated a wolf into a monster. In 1765 the king's hunter killed a large wolf and displayed it at Versailles to **declare the story over.** The attacks continued, and the "real" beast was killed in 1767. **A role outliving its first vessel**, made worse by newspapers |
+| **Gremlins** (RAF folklore, 1920s–40s) | A brand-new fear invented to explain mechanical failures. Within a generation it had rules, appearance and a children's book (Roald Dahl, 1943) |
+| **Bakeneko / nekomata; tanuki and kitsune** (Japan) | Animals that grow supernatural with **age and proximity to people**. Kitsune gain tails as they gain power |
+| **Black Shuck / black dogs** (East Anglia) | A role tied to *places*, such as lanes, churchyards and crossroads, filled by whatever dog is there |
+| **Black cats and witches' familiars** | Animals persecuted as the *vessels* of feared roles. An in-world cull would be a sensible precaution, not superstition |
+| **Mushishi** (fiction) | *Mushi* as a quasi-natural ecology, beings that are neither good nor evil. The bug end of the spectrum |
+
+### [Proposal] Consequences
+**1. Killing the monster doesn't end the fear.**
+- The role refills, so folklore is full of beasts that "came back."
+- **Hunters must close the tale, not just make the kill.** That means a public trophy, a ballad, and a sermon declaring it dead. Half of monster-hunting is publicity (Gévaudan, done right).
+- A hunt that kills the beast quietly is a botched hunt.
+
+**2. Folk tales are the instruction manual.**
+- A creature's weakness is whatever the local story says, so **collecting tales is military intelligence.**
+- Folklorists, bards and the *cyfarwydd* ("one who knows") are consulted before a hunt, as in the Grimms' fieldwork.
+- **Changing the tale changes the creature.** Adding "and it fears iron" to the village story, and making it stick, is a slow, legitimate defence. The Concord does this deliberately, which is also why it censors (§3b).
+
+**3. Vessel denial is village hygiene.**
+- Settlements cull foxes, rats and feral cats near the edge **before** a fear finds them.
+- **[Proposal] Domestic animals are in-group** (fed at the hearth, named, like guest-right, §2 #8) and resist pariah roles. **The feral and the stray are vulnerable.** A stray dog taken in is a small act of protection; turning a dog out is ominous.
+- Myth-sensing animals are prized: a cat that hisses at "nothing," or a goose watch. **[Proposal]** The Concord's Hounds literally keep hounds bred for it.
+
+**4. The 19th century is the worst time to have a vacant role.**
+- Penny dreadfuls and newspapers mass-produce fears with **no vessel attached**, such as Spring-heeled Jack (1837–1904) or Sweeney Todd (1846).
+- **Every reprint is a role waiting in every city at once.** Urban rats, pigeons, alley cats and the destitute are the candidate vessels.
+- This is why the Office licenses fiction (§3b).
+
+**5. A role can also claim a person.**
+- The scapegoat is the original vessel, and the destitute and exiled remain the most receptive. That ties pariah Myth back to class.
+
+### [Canon] Lines inherit the role
+- **A claimed vessel's line inherits the role.** It comes in degrees while the line settles: a gremlin-fox's litter might hold **some ordinary kits, some hybrids, and one or two gremlins.**
+- **If the Myth isn't closed, Nature settles it,** and the line breeds true (Settled / Lineal).
+- **[Proposal] A narrow window:** closing the tale while a line is still mixed lets the ordinary kits win out over generations. Once it breeds true, closing the tale no longer unmakes the species; it only stops it from growing stronger.
+
+### [Proposal] Penny dreadfuls vs the Office
+**Real-world precedents:**
+
+| Precedent | What happened |
+|---|---|
+| **Penny dreadfuls** (1830s–1890s) | Cheap weekly serials of horror and crime aimed at working-class boys, such as *Varney the Vampire* (1845–47) and *The String of Pearls* (Sweeney Todd, 1846–47). A recurring moral panic |
+| **The *Boy's Own Paper*** (1879) | Launched by the **Religious Tract Society** to **out-compete** the dreadfuls with wholesome adventure. It worked commercially |
+| **Taxes on knowledge** and the unstamped press (1830s) | Stamp duty priced radical papers out of the market. Hundreds of vendors went to prison selling unstamped papers such as the *Poor Man's Guardian*. The duty was repealed in 1855 because enforcement failed |
+| **Lord Chamberlain's licensing** and the **burletta** loophole | Unlicensed theatres added songs to call a drama a "burletta" and dodge the law. Genre became a legal disguise |
+| **Hays Code** (1934) and the **Comics Code** (1954) | "Crime must not pay"; in licensed horror, evil must be defeated. The Comics Code killed horror comics, and *Mad* rose by mocking it |
+| **Gallows broadsides** | Murder ballads and "last dying speeches" sold by the thousand at hangings |
+
+**In-world dynamics:**
+1. **The Office can't ban fear outright.** Folk tales are protective (§2a #2), and a ban *names* a story as dangerous, which feeds it (the Streisand effect is literal here). So it regulates **endings**, not subjects.
+2. **[Proposal] The closing clause.** A licensed horror story must **end with the creature dead and its weakness stated.** Licensed fear arrives pre-closed, so any role it seeds is weak and comes with a known cure. It's the Hays Code with a magical rationale.
+3. **Serials are the core danger.** A cliffhanger keeps a role **open for weeks, deliberately, to sell the next number.**
+   - **[Proposal]** The Office requires serials to be **filed complete** before the first instalment is licensed.
+   - Publishers cheat: they file a dull ending, then print a different one.
+4. **Writers' circumventions:**
+   - **Human villains** ("true crime," Sweeney Todd). There's no monster to license, but the role can **claim a person**, usually some poor barber.
+   - **Foreign settings:** the fear is aimed elsewhere. Morally dark: it **exports monsters** to the march or abroad.
+   - **Comedy:** ridicule lowers fear. Satirical monster papers in the style of *Punch* are semi-tolerated.
+   - **"Burletta" genre dodges:** call it a sermon, a natural history or a travelogue.
+   - **Unlicensed presses:** hedge-printers, the hags' network, a radical underground. Selling unlicensed horror becomes a political act.
+5. **The Office's counter-moves:**
+   - **Counter-programming:** wholesome Concord-backed serials (the *Boy's Own Paper*) and **Saint literature**. Agnes's Myth is built the same way; the Concord runs a penny dreadful in reverse.
+   - **The official sequel:** Office ghost-writers publish the "final chapter" of an unlicensed serial, in which the creature dies. Readers know these as "**the Office's endings**."
+   - **Quiet suppression:** buying and pulping print runs, and bribing distributors, rather than public bans.
+6. **What happens when control fails:**
+   - **City Myth-born.** The rookeries grow Settled lines from old serials, like Spring-heeled Jack. **The slums are a fossil record of last decade's bestsellers.**
+   - **Each outbreak hands the Purifiers leverage** (§3b #9). One popular serial that goes wrong could restart a crusade.
+   - **A class war over fiction.** The Office polices penny papers for the poor while three-volume novels for the rich pass easily. The rookeries pay for the difference.
+
+**Hooks:**
+- **Eirlys, as Perce-Neige,** writes under licence and knows exactly where the line is.
+- **[Canon] Aveline's storybook needs no closing clause.** Its antagonist is an ordinary woman, with no Mantle or magic, so the tale stays grounded and draws no Concord attention. The book carries no special power.
+
+### [Proposal] Knock-on effects
+**On the Huntress (§4c):**
+- **Real hunting methods:**
+  - **Deer *par force*:** mounted, with hounds running a stag to exhaustion (Gaston Phébus, *Livre de chasse*, 1387).
+  - **Bow and stable:** beaters and hounds drive deer past archers on foot. Elizabeth I shot driven deer with a crossbow from a stand at Cowdray in 1591.
+  - **Boar:** on foot with a cross-barred boar spear and heavy hounds, the most dangerous hunt.
+  - **Bear:** hounds bay it, then spear or shot.
+  - **Women rode hard:** Empress Elisabeth ("Sisi") rode side-saddle with the Meath hunts in the 1870s.
+- **In-world, a Myth hunt isn't just a kill. It must close the tale,** which takes witnesses, horns, a trophy and a ballad. **The mounted hunt *is* that public performance.**
+  - So the Huntress needs **pursuit across country** (mounted), **range within the 100 m aura** (the bow), **hounds that sense Myth**, and **an audience.**
+- **[Canon] The split:**
+  - **The Huntress rides as a platform:** the ancestor's riding skill comes with her, and she can shoot from the saddle.
+  - But **her horse isn't Mantled.** Only the Cavalier covers and weaponises the horse.
+  - The Warlord likewise rides; the horse is part of the *image*, not of the Mantle.
+- **A steady horse is precious.** Most horses spook at Myth pressure; ones that don't (or Myth-sensing ones trained to point) are prized breeding stock.
+- **The Toxophilite ladies' archery society is the decorative descendant** of a practical military and civic Mantle, which is exactly the author's framing.
+
+**On the Conqueror's dysmorphism (§3c):**
+- **Her line inherits in degrees** (§2a), so births in her line could include ordinary children, partly marked children, and **a rare "true" child.**
+- **Which traits are "legitimate" depends on which story they come from:**
+  - Traits matching the **licensed hagiography** (the Concord's closed, canonical *Vita*) are **holy signs**, like stigmata.
+  - Traits from **the conquered peoples' tales** (the blinding of dissidents, the harpy, the crow-woman) are **monstrous.**
+- **[Canon] One Myth, two vessels:**
+  - The heartland's Lady of the Way is holy. **The march's folk memory of her may have seeded a wild Myth-born line,** something winged and eye-taking.
+  - Gwion's family, of the march, would know *that* version.
+- **The Concord keeps her anger closed:** hagiography recasts it as "righteous wrath." A Mystique drifting toward her *folk* version is heresy; drifting toward the *licensed* version is devotion.
+
+**On background texture:**
+
+| Area | Effects |
+|---|---|
+| **The landscape** | Cleared **cull belts** around villages; hedgerows kept low; a lantern-lit lane is protective, an unlit one a vacant role |
+| **Institutions** | **Fox hunting is aristocratic Myth hygiene,** literally vessel denial for gremlins. Opposing it is suspect. Parish-paid **tale-closers** (balladeers); folklorists consulted like surveyors; Hounds' kennels |
+| **The economy** | **The Victorian taxidermy boom as proof of closure:** a stuffed beast in the town hall keeps it dead. Dog licences; Myth-steady horses; licensing fees; a black market in unlicensed serials |
+| **Law** | Harbouring ferals or **spreading an unclosed tale** is an offence; turning a pet out is ominous; adopting strays is a civic virtue |
+| **Etiquette and speech** | Never say a fear-name aloud; finish a scary story *properly* ("tell it to the end"); stopping a tale mid-way is rude, even dangerous |
+| **Children** | Nursery rhymes as folk closing clauses; "the hunt" as a playground game; a child who tells a monster story without its ending gets scolded |
+| **Gossip and the press** | "An Office ending" as slang for a pat conclusion; hunt reports in society columns; slum sightings |
+
+### Threat scale
+
+**[Canon] Realm-level fear is diffuse, like an epidemic.** A loose penny dreadful cyclically triggers mutation, but because the fear is spread out, so are the sightings. **It's not one monster under the bed but dozens;** not one wicked stepmother turned hag, but **most stepmothers in the realm feeling the pull.** The response is part monster hunt, part public health, part PR campaign.
+- *Precedents:* **Spring-heeled Jack** (1837–1904) was sighted across England for decades, with copycats and hoaxers everywhere. **The 1854 Broad Street cholera outbreak:** John Snow mapped the cases and the pump handle was removed, a model for the Office's sighting maps.
+
+**[Canon] How a singular shire beast arises.**
+- **The line takes generations; the Beast takes a season.**
+  - A Settled line (e.g. gremlin-foxes) builds slowly in the background. That's parish-level, constant and mundane.
+  - Then **one incident goes viral regionally:** a child taken, a hunter killed, a lord humiliated.
+  - The story fixes on **one individual,** the biggest or the one that was seen. Concentrated fear makes it **Wrought within months**, in one lifetime, per canon.
+- **Grammar decides number.** **"*The* Beast of X"** funnels a region's belief into one vessel; "beasts" spread it thin.
+  - *Precedent:* **Gévaudan** was probably several wolves, but the press insisted on *one* Beast, and one Beast is what people feared.
+  - The Office and hunters therefore **fight over the article:** officials say "wolves" (plural, mundane), the gazettes say "the Beast."
+- **A shire beast is a sign of institutional failure.** The parish response is practised and swift, so most would-be beasts die young. A Beast happens only when something breaks:
+  - **a botched closing:** the wrong animal is displayed, as with the 1765 Versailles wolf;
+  - **a hunter killed,** which makes the fear jump;
+  - **jurisdiction:** the march lord and the Crown garrison each wait for the other to act;
+  - **censorship backfiring:** the Office hushes it, so the gossip fills the silence.
+- **Old beasts** are the other kind: centuries-old Settled creatures (a hill-worm, a lake-thing) that are **managed, not hunted.** Tribute, taboos, a treaty stone. They're a constant presence, like a volcano. *Precedents:* the Lambton Worm (fed milk daily); the dragon of Wawel Hill.
+
+**[Canon] Frequency** (calibrated on 18th-century France, which had several named *bêtes* per century: Gévaudan, Auxerrois, Benais, Vivarais):
+
+| Tier | How often | A knight's career (~20–30 yrs, longer with revives) |
+|---|---|---|
+| **Parish** | Every season somewhere in a county; **hunt season is part of the social calendar** (the autumn country exodus, §5c) | Dozens. Routine, and expected of the gentry |
+| **Shire** | **Realm-wide every few years; in any one region, once a generation or two** | **0–1 for most; 2–3 for a famed Huntress or Cavalier.** It's career-defining, like a major war |
+| **Realm** | A few times a century, following the print cycle | Few fight it; everyone *lives through* one, like a cholera year |
+| **Old beasts** | Permanent | Never hunted; the knight attends the tribute rites |
+
+### [Canon] Evolutionary perks
+*Derived from existing canon: Myth is belief; mystery is required; the vessel inherits the tale's rules; settled lines run on Nature (notes, "born from an ancestor").*
+
+**1. The tale gives the perks, not biology.** A vessel gains what the fear *says* it has, and nothing more. If people say gremlins slip through locked doors, the fox learns to. Nobody fears a gremlin's appetite, so it still needs to eat like a fox.
+   - **[Canon] Pest tales breed resilience.** When a creature is believed to be a pest that "always comes back," Myth gives it **larger litters and more efficient feeding.** Despite culls, there always seem to be more foxes, and that belief makes the species harder to exterminate.
+   - **[Proposal] The irony:** **culling feeds the pest tale.** Every visible cull reminds people how many there are. The quieter answer is closing the tale, not killing more.
+
+**2. Fear works like any belief** (notes, Myth rules):
+- **Widespread, mild fear** (a realm-level penny dreadful): **a little power** for each of many vessels, and slow change.
+- **Local, intense fear** (one village, one beast): **a lot of power quickly**, and fast mutation. This is how a shire beast is made in one season.
+- **A vessel that frightens people grows.** Hunting the fear is the instinct the role selects for.
+
+**3. Mystery is the real survival trait.**
+- Being *understood* weakens Myth. A creature that is seen clearly, measured or explained loses its pull.
+- **Selection favours the half-seen:** nocturnal, glimpsed, leaving signs rather than showing itself. **The glimpse is the adaptation.**
+- **Taxidermy and exhibits are weapons** (§2a knock-on effects): a stuffed gremlin in a museum makes every gremlin weaker.
+
+**4. The Myth sense: an early warning, not a power.**
+- Before it fills a role, a sensing animal gets **foresight of danger:** it feels Mantle pressure, a hunter's approach, and where fear is gathering.
+- **It is drawn to fear** the way moths are drawn to light. That's how a vacant role finds its vessel.
+
+**5. Weaknesses come with the tale.**
+- The vessel also inherits **the tale's rules and bans** (cold iron, salt, a threshold, being named).
+- **Natural selection acts on the stories:** lines whose weaknesses are widely told get hunted out; lines whose weaknesses are forgotten survive.
+- **So clever lines manage their PR:** they leave false signs and feed rumours of the wrong weakness. It's the fire-juggler rule (notes), used by beasts.
+
+**6. "Does Magic abhor a vacuum?"** **No intent.** Belief is pressure, and an empty role is a low point that the pressure fills (§2a canon: an empty place waits for a vessel). It *looks* like purpose, the same way water looks like it "wants" to go downhill.
+
+**7. The end state: Settled lines turn Myth into Nature.**
+| | **Wrought** (fear-fed) | **Settled / Lineal** |
+|---|---|---|
+| Power source | Living belief | Biology |
+| Mutable? | Yes; follows the current tale | No; fixed traits |
+| Weakened by being understood? | **Yes** | **No** |
+| Needs fear? | Yes; starves without it | No |
+| Threat | High but unstable | Lower, but permanent |
+- **The trade-off:** settling costs a line its fear-fed peak, but frees it from needing to be feared. **The revered old beasts and tribute rites** (Threat scale) sit in between: still Wrought, fed by reverence instead of terror.
+
+### [Proposal] Creature names
+**[Canon] Convention:** creature and world terms are **English**, so readers aren't lost. Welsh is kept for **personal names**. The march gets its flavour through **translated phrases**: English words that follow Welsh speech habits (cf. Irish English "the Good People").
+
+**Naming is a Myth act. Each register names to serve its goal:**
+| Register | Aim | How it names | Real precedent |
+|---|---|---|---|
+| **Folk** | Don't feed it | **Euphemism** (§7 "Myth hygiene") | "Good Neighbours"; "the brown one" for bear |
+| **Concord** | Weaken it | **Classification.** Being understood weakens Myth, so a dry Latin name is a weapon | Linnaeus (1735): bestiaries gave way to natural history |
+| **Press** | Sell it | **Place plus the definite article** | The Gévaudan name was coined by newspapers |
+
+- **[Hook] The press name makes the beast.** "*The* Beast of X" fixes the story on one creature: that's how a shire beast forms (Threat scale). **The hunt-master's first job is keeping the papers from naming it.**
+- **[Hook] Classification only works if people read it.** So the Concord funds popular natural history, menageries and museums, alongside the taxidermy.
+
+**Folk kinds: sorted by what they look like** (the Concord sorts by origin instead: Fallen, Claimed, Wrought, Lineal; §7):
+| Look | Polite name (euphemism) | Fear-name (avoided) | March phrase | Examples |
+|---|---|---|---|---|
+| **Many-legged:** bugs, swarms, crawling things | **the Small Folk** | **the Creep** | "the busy ones" | Myth-touched insects; Mushishi-like drifting things |
+| **Small and half-upright:** beasts that walk too much like people | **Hobs** | **Grims** | "the little thieves" | The gremlin-fox; the cat that sits at table |
+| **Large, four-legged, too big** | **the Great Ones** | **Beasts** | "the Old One," for revered beasts | Shire beasts; old beasts given tribute |
+| **Winged** | **Night-fliers** | **Rooks**, as in "the rooks are out" | "the cloak," from the Conqueror idiom | The march's eye-taking line (§3c) |
+| **Man-shaped, but wrong:** bestial Fair Folk | **the Neighbours** | **Wights** | "the Mothers' Blessing" (calque of a real Glamorgan euphemism) | Pariah descendants; the scapegoat's line |
+| **No fixed shape:** a shadow, a voice, a weight | **Hushes**, from "hush, or…" | **Bogeys** | "the thing behind the door" | Nursery terrors, the monster under the bed |
+
+- **[Proposal] Why look, not place:** ordinary people sort by what they *saw*, and what they saw becomes the tale. Two villages that describe the same creature differently are, in time, feeding two different creatures.
+
+### [Proposal] Why people keep the traditions
+Outside the Concord and the march lines that are in the know, nobody understands Myth. They keep the rules anyway, because each rule comes with an **everyday reason that sounds sensible**. Real history does this all the time: miasma theory gave sanitation the wrong reason and still got the right result.
+
+**Heartland: the rule dressed up as modern, respectable sense**
+| Tradition | Everyday reason | Real precedent |
+|---|---|---|
+| Euphemism, not naming things | **Manners.** Naming it is vulgar. | Victorian polite language: "limbs," "indisposed" |
+| Closing clauses, happy endings | **Morals.** A story that ends badly corrupts. | Penny-dreadful moral panics |
+| Banning horror stories | **Medicine.** Dwelling on fear causes "nervous excitement." | Doctors warning that novels caused hysteria |
+| Rites and saints | **Piety**, as the Way teaches | Churching, christening |
+| Fines, licences | **Law.** It's simply illegal. | Licensing of the press |
+
+**March folk (not in the know): the rule is right, the reason is wrong**
+- **Luck:** "Leave the bowl out, or the year turns sour."
+- **Courtesy to the Neighbours:** the creatures are moody spirits who must be kept sweet, not something belief creates.
+- **"Granny did it":** rhymes and children's games carry the rule; the reason was forgotten long ago.
+
+**Hooks**
+- **[Hook] The Concord prefers people to have the wrong reason.** Saying "fear makes monsters" would make people afraid of their own fear, and that would spread.
+- **[Hook] The wrong reason is a weak point.** When a rational reformer disproves the medical or luck reason, people drop the habit, and Myth leaks through.
+- **[Hook] Folk reasons can feed Myth.** Believing the Neighbours are touchy makes them touchy. A march elder might know this and keep quiet.
+- **[Hook] Agnes:** the heartland etiquette she keeps breaking is the same Myth hygiene in gloves (characters §5.1, "Etiquette arc: a progression").
+
+### [Open] Still to discuss
+- ~~Do claimed vessels **breed true**?~~ **Settled:** the line inherits the role in degrees, and Nature settles it if the tale isn't closed.
+- ~~**Threat level**~~ **Settled:** see Threat scale above.
+- ~~**Evolutionary perks**~~ **Settled:** see above, including pest resilience.
+- ~~**In-world nomenclature**~~ **[Proposal]** drafted above (English terms; folk sort by look).
+- How the threat shaped **settlement, law and economy.** (First pass: see Knock-on effects above.)
 
 ---
 
@@ -354,7 +616,7 @@ Real precedents: the Roman Inquisition was renamed the **Holy Office**, then the
 - **Æthelflæd, Lady of the Mercians:** led campaigns and **fortified a chain of burhs** along her conquest route, a ready-made line of Stations.
 - **Tamar of Georgia:** a warrior queen, canonized as a saint.
 
-### [Proposal] The Conqueror
+### [Canon] The Conqueror
 - **She wore the god when it was still a tribal Mantle**, wieldable and terrible.
   - **Her campaign is what made it eldritch.** The conquered peoples' terror of *her*, inside that Mantle, became its eyes, wings and rage.
   - **She was the last person to wear it stably, until the Saint.**
@@ -373,6 +635,33 @@ Real precedents: the Roman Inquisition was renamed the **Holy Office**, then the
   - The Saint's tour along the Way literally retraces the conquest.
   - In the heartland it is a pilgrimage; **in the march it is a provocation.**
 - **The Saint learns the truth** at a Station, from a local who remembers, or in a folk song the impostor knows from childhood in the march.
+- **[Canon] Her symbols: hers first, then the god's.** Canon already says terror of *her* became the god's eyes, wings and rage, so each symbol starts as **a deed of hers.** It then becomes a feature of the god, and finally drifts back into her own Mantle.
+
+  | Symbol | Her deed (historical) | Precedent | Licensed version (heartland) | March version |
+  |---|---|---|---|---|
+  | **Feathers** | **A tribute cloak.** Each conquered house sent feathers, so the cloak grew with every conquest, a wearable map of her empire. **She doffed it before a slaughter**, and burned towns were found with feathers in the ash | Hawaiian ***ʻahu ʻula*** feather cloaks, reserved for high chiefs: Kamehameha's took ~450,000 feathers of the *mamo* bird. Polish winged hussars for the battlefield terror | **The god's wings sheltering pilgrims on the Way.** Feathered vestments at Stations; Renaud's processional cloak | **"Feathers-in-the-Ash."** **"The cloak's come off"** is the march idiom for a massacre about to happen |
+  | **Eyes** | **Merciful blinding.** Dissidents were spared death but lost their eyes; **one in every hundred kept one eye** to lead the others home | **Basil II "the Bulgar-Slayer"** (1014): ~15,000 prisoners blinded, one in every hundred left one eye. In Byzantium, blinding was considered a **merciful alternative to execution** and disqualified a rival from rule | **"She sees the whole road":** an all-seeing eye (cf. the Eye of Providence) on Station plaques; Renaud's amber ring | **"The Many-Eyed": she took them, so she has them all.** The god's wounds-become-eyes side effect (§4d) is, in folk memory, the stolen eyes coming back |
+  | **Anger** | **Mercurial wrath.** Treaties honoured one day and burned the next | Olga of Kiev's revenge on the Drevlians | **"Righteous wrath"** against the godless | Her rage is just rage, and you never know which day it is |
+
+- **[Canon] Hooks:**
+  - **The hundredth men:** march families descended from the one-eyed guides **carry the folk version in their blood and their songs.** A family trait such as a hereditary squint or a ritual eyepatch on a feast day could carry the memory. The Chronicler ancestor (characters §4.2) might be one of them.
+  - **The Saint and the eyes:** Agnes's hidden eye-wounds are, to a march local, *proof* she is the Conqueror come again.
+  - **Renaud's feathered cloak** is regalia in the heartland and a threat in the march. Wearing it on a royal visit to the march would be a diplomatic error, and a cue for Gwion.
+- **[Canon] March protocol: does the Crown know?**
+  - **Real precedents:**
+    - **The Prince of Wales's feathers** (three ostrich plumes, "Ich dien"). By legend, the Black Prince took them from **the blind King John of Bohemia** at Crécy (1346). It's a conqueror's feather badge, taken from a blind king, and it became the emblem of the conquered principality.
+    - **The 1911 and 1969 investitures at Caernarfon:** pageantry partly invented by Lloyd George, with the prince speaking Welsh lines. In 1969 Charles studied Welsh at Aberystwyth for a term, and there were protests and a bombing campaign.
+    - **George IV in a kilt in Edinburgh** (1822), staged by Walter Scott. Loved in the capital, laughed at by many Scots. **The conciliatory costume is itself a performance.**
+  - **The Crown knows, by policy:** garrison reports and a century of riots taught its protocol office that **feathers in the march start trouble.**
+  - **[Canon] It stays unwritten. The Concord wants the memory of that Myth eroded, and will die on this hill.** It resists any official acknowledgment. Admitting the folk version exists *names* it, which feeds it (§2a). So the march protocol is **never written down or explained,** only practised. That's a Crown–Concord friction point.
+  - **The march dress:** on march soil, royals **don't wear the Conqueror at all.** Renaud shows his Confessor-King main instead, and dresses in **undyed march wool with the device of the local house** (for Talgarth, the Champion's).
+    - **Heartland reading:** charming, humble, "the Good Prince."
+    - **March reading:** split. Some see a courtesy. Others see **a conqueror's heir in a borrowed coat** (the George IV problem). The old guard notes the founder's device is the *collaborator's*.
+  - **Hooks:**
+    - Renaud follows the protocol by rote, **without knowing why,** until Gwion or Lleucu tells him what "the cloak's come off" means. That moment is part of how he learns what the conquest did (characters §6).
+    - **A protocol failure:** a new chamberlain, a Purifier-leaning cleric, or the Duchess packs the feathered cloak for a march visit. Accident or provocation?
+- **[Open]** Perhaps **the Conqueror's own Mantle drifted under her Myth** until it became slightly inhuman, short of the god's. That could be why it's kept for ceremony: her battle techniques are so taxing that only Myth-born of her line or Mystics who become more like her can use them in earnest. **[Canon] Renaud wears it ceremonially through faint marks of the licensed legend** (characters §6).
+  - Which physical changes would the Crown accept as legitimate in such a wearer? (Author's ideas: taloned hands, hollow bones, piercing eyes, extra bones or joints, longer arms, digitigrade legs with kicks woven into the technique.)
 
 ---
 
@@ -415,7 +704,7 @@ Real precedents: the Roman Inquisition was renamed the **Holy Office**, then the
 
 ### 4.4 Craft Mantle incentives
 **[Proposal]**
-1. **Pressure is force**: 8× at 10 cm for smiths, masons, tanners.
+1. **Pressure is force**: up to 8× at 10 cm (violet; 2× at red, see §1.1) for smiths, masons, tanners. Colour is literally strength, so craftsmen chase it too.
 2. **Toughness offsets occupational hazards**: glassblowers, miners, gilders (mercury), alchemists. Low status for the elite, survival for workers.
 3. **Myth-touched ancestors carry a small legend-derived rule-bend** (e.g. a Frankenstein Mantle), usable by any wearer (see §1.1).
 4. **Legend becomes moveset quirks**: "never retreated" → no backstep.
@@ -451,6 +740,14 @@ Real precedents: the Roman Inquisition was renamed the **Holy Office**, then the
 - With the Lady nearly always pregnant, **the Lord could rarely Mantle at home**, which pushes him toward Myth.
 - **The twins were born nearly the same day:** two confinements, one Mantle slot. Who got it, who was moved, and was the other child weaker? A source of resentment, linked to the twin killing.
 - Regeneration interaction: the confinement Mantle must belong to an ancestor who understood childbirth (see §1.1, "witnessed wounds").
+
+**[Canon] Military women and pregnancy**
+- Mantles heal only wounds the ancestor understands. **Only military *women* ancestors would have known wounds to a fetus,** so they are the only way to heal a damaged pregnancy while staying on the battlefield.
+- **A warrior woman relying on a man's Mantle while pregnant risks losing the child.** Over the ages the practice has become rare.
+- **Every military woman keeps at least one woman's Mantle** to wear exclusively while pregnant.
+- **So girls learn their first military Mantle from a foremother,** and only branch out to a man's with their second.
+  - **The 1st son's flaw:** he learned a man's military Mantle first and **struggled to shift to Aveline's Huntress.** Gwion, taught early by his sister to respect the Huntress, sidesteps this entirely. (characters §4.4)
+- **Men don't face the same issue.** **[Canon] Urban legend:** a soldier who wore a woman's Mantle and, in a stroke of battlefield bad luck, **lost his genitals, which never regenerated.** Told in barracks as a joke and a warning.
 
 ---
 
@@ -526,9 +823,9 @@ The eldest daughter's contract was signed **as a bride-price deal** because she 
 |---|---|---|
 | **The Champion / Duellist** | Single combat | The noble default; family founders are usually this |
 | **The Bulwark** | Shield, defence, holding a line | Bodyguards; escort duty at balls |
-| **The Huntress / Archer** | Range, out to the 100 m aura edge | Can open fights before rivals close in |
+| **The Huntress / Archer** | Range, out to the 100 m aura edge | Can open fights before rivals close in. **[Canon]** Rides and shoots from the saddle (a mounted hunt that closes the tale, §2a), but the horse isn't Mantled; only the Cavalier covers the horse |
 | **The Cavalier** | Mounted combat | **[Canon]** The Mantle extends to the horse, which is part of the legend; **the horse bears the same physical limits as a wearer** (movements complete regardless of its body). **The rider may choose to revive a dead horse, at the cost of one of their own lives,** and is usually dismounted while it recovers. Strong warhorses are paramount, and **horse breeding is a respectable profession** |
-| **The Knife** | Daggers, grapples, 10 cm 8× pressure | Assassins and close protection; disreputable |
+| **The Knife** | Daggers, grapples, 10 cm pressure (2–8× by colour) | Assassins and close protection; disreputable |
 | **The Wrestler** | Throws and holds | Popular with commoners and at fairs |
 | **The Warlord** | Command presence, signals, voice carrying | Officers; the "slot" is rotated to them in battle |
 | **The Beast** ★ | Quadruped, bird or serpent forms | Body mismatch causes injury; a specialist's tool |
@@ -551,7 +848,7 @@ The eldest daughter's contract was signed **as a bride-price deal** because she 
 |---|---|---|
 | **The Folk Hero** ★ | Field work, endurance, strength | The farmer's Mantle (compare John Henry); also a revolt symbol |
 | **The Harvest Mother / Reaper** | Mowing, reaping, gleaning | Seasonal peak; harvest-festival rites |
-| **The Smith** ★ | Forging (8× hammer pressure, heat tolerance) | Guild-sacred |
+| **The Smith** ★ | Forging (2–8× hammer pressure by colour, heat tolerance) | Guild-sacred |
 | **The Mason** ★ | Stonework, building | Cathedral builders; secretive guild |
 | **The Miner** ★ | Digging, bad air, cave-ins | Toughness = survival |
 | **The Woodcutter** | Felling, carpentry | Forest villages |
@@ -563,7 +860,7 @@ The eldest daughter's contract was signed **as a bride-price deal** because she 
 | Trope | Use | Notes |
 |---|---|---|
 | **The Weaver / Seamstress** | Textiles | Fate imagery; women's guilds |
-| **The Couturier** | Dressmaking, tailoring | **Season-critical**; famous dressmakers wear theirs openly |
+| **The Couturier** | Dressmaking, tailoring | **Season-critical**; famous dressmakers wear theirs openly. **[Canon]** Like the Host/Hostess, a Couturier Mantled at a gathering takes the slot and says "you're safe here: I'm unarmed, and nobody else can be" |
 | **The Glassblower** ★ | Glass; burn protection | Occupational hazard |
 | **The Goldsmith / Gilder** ★ | Jewellery, gilding; mercury exposure | |
 | **The Potter** | Ceramics | |
@@ -1054,6 +1351,22 @@ The eldest daughter's contract was signed **as a bride-price deal** because she 
 - **The underdog's prize:** the challenger who loses well can gain more than the winner. **Losing well is a recognized social achievement.**
 - **The delicate-flower ambush:** a woman who has presented as soft all Season and then calls a passage and wins causes an **unhorsing** and a sensation. The impostor and Tulpa could use exactly this.
 
+### [Proposal] Calling-card codes
+**Real-world base:** a card is left when paying a call, and a folded corner codes the message. Top left: called in person. Top right: congratulations. Bottom left: condolence. Bottom right: farewell. Whole left edge: for all the ladies of the house. Codes varied by decade and manual.
+
+**[Canon] The challenge pinch:** a challenge to a passage is a calling card **pinched once down the centre, through the sender's printed name.** Period cards are stiff engraved pasteboard, so there's no room for nuance: the crease *is* the challenge. It never fully leaves; even smoothed out, it looks like a scar on the name (the bare scar on paper).
+
+**[Proposal] Replies and further codes:**
+
+| Mark | Meaning | Notes |
+|---|---|---|
+| **A pinched card returned smoothed flat** | A graceful refusal | It costs a little, as declining does |
+| **A pinched card returned with its top-left corner turned** | Accepted. "I'll come in person" | |
+| **Black-edged card** (real) with a **Concord seal** | Mourning; also used to announce a **revive.** "One fewer life" is news the family must share | Ties to the "no revives" convention |
+| **A card with no corner turned, sent by a Saint or cleric** | A blessing visit; everyone wants one | Agnes's cards become collectibles, which feeds her Myth |
+
+**Agnes breach:** at her debut she pinches cards absent-mindedly while she talks, then leaves them. She has accidentally challenged half the room, and it's forgiven. Later, knowingly, she pinches an *opponent's* card and returns it, believing it's emphatic. It's an insult.
+
 ### [Proposal] Softer men: Civil and Martial standing
 **Historical precedents:**
 - **China's *wen/wu* ideal:** civil-scholarly versus martial masculinity, with ***wen* often ranked higher.** The scholar-official, not the general, was the model gentleman.
@@ -1131,7 +1444,7 @@ All three are plausible cover stories for the impostor, and all three are rumour
 3. **Six years of reclusion breeds its own Myth** (sickly, mad, hidden), which may pull the impostor toward invalid or ghost.
 4. **Why the marriage contract is life-or-death** needs a reason, since daughters historically *cost* a dowry. Options: debt, Inquisition protection, a higher house's patronage, or (new) merging ancestor cults or gaining a true name.
 5. **Servant silence:** a real household had 30–50 staff, and servant gossip spread fast. In this world it's power. How are they silenced (oaths, Myth-bound servants)?
-6. **The slap at 12y:** a Mantled blow at under 10 cm (8× pressure) should kill a 9-year-old unless she was Mantled. Then the Lord arriving makes **three Mantles in one room**: pain, collapse, a strong scene.
+6. **The slap at 12y:** a Mantled blow at under 10 cm (2–8× pressure by the Lady's colour) should kill a 9-year-old unless she was Mantled. Then the Lord arriving makes **three Mantles in one room**: pain, collapse, a strong scene.
 7. **Nurse's healing:** described as both "restorative magic" and a "healing Mantle." Now consistent with non-warrior Mantles: pick one or both.
 8. **Inheritance:** with the 1st son dead on paper and the 2nd son playing the daughter, the 1st son (as the 2nd son) is the heir. Decide whether Myth can make the impostor fully female and fertile; the marriage depends on it.
 9. **Numbering errors** in the original notes: the youngest is the 7th daughter, not the 5th; the stillborn at 12y is the 6th; "first daughter" refers to both the eldest and the Nurse's first daughter.
@@ -1330,7 +1643,17 @@ A running reference of story consequences, grouped by the worldbuilding element 
   - Scars mark the unmantled. (§1.1)
 - **Self-image healing (heresy):** a quiet, dangerous way for the 2nd son's transition to speed up. Hounds look for people who heal "wrong." (§1.1)
 - **True names and marriage:** a "dowry of names" means the impostor's marriage may share the family's true name with the groom's house. (§4b, §4.5)
+- **The role outlives the beast:** killing a creature doesn't end the fear, so hunters must *close the tale* publicly or the role refills (Gévaudan). Penny dreadfuls seed vacant roles in every city at once. (§2a)
+- **"The" Beast vs "beasts":** a shire beast is made in one season when a story fixes on a single animal. It only happens when the parish response fails (a botched closing, a dead hunter, jurisdiction squabbles, censorship backfiring). Officials and gazettes fight over the article. (§2a)
+- **The march dress:** royals never wear the Conqueror on march soil, an unwritten protocol the Concord refuses to acknowledge. Renaud follows it without knowing why, until someone tells him what "the cloak's come off" means. A packed feathered cloak could be an accident or a provocation. (§3c)
+- **One Myth, two vessels:** the Conqueror is holy in the heartland's licensed hagiography, while the march's folk version may have seeded a wild, winged, eye-taking line. Which story a trait matches decides whether it's a holy sign or a monstrous one. (§2a, §3c)
+- **The hunt closes the tale:** the mounted Huntress with hounds, horns and witnesses is a public ritual, not sport. Fox hunting is aristocratic vessel denial. (§2a, §4c)
+- **Wrong reasons for right rules:** ordinary people keep Myth hygiene as manners, morals, medicine, piety or luck. The Concord prefers it that way, but a reformer who disproves the reason ends the habit and lets Myth leak. Folk reasons ("the Neighbours are touchy") can feed the very thing they guard against. (§2a)
+- **The closing clause:** licensed horror must end with the creature dead and its weakness stated. Serial cliffhangers keep roles open for weeks; the Office ghost-writes "official endings" for unlicensed serials; the slums grow Myth-born from last decade's bestsellers. (§2a)
 - **Myth-touched craft Mantles:** a legal grey area the Office may crack down on. (§1.1)
+- **Colour is strength:** pressure runs from 2× (red) to 8× (violet), so a colour gap in a duel is an uphill fight that skill can still win. (§1.1)
+- **Pregnant warriors need a woman's Mantle:** girls learn a foremother's martial Mantle first. The 1st son's man-first training is why he couldn't become the Huntress; barracks legend warns men off women's Mantles. (§4.7, characters §4.4)
+- **The disarming Couturier:** taking the room's slot with an unarmed craft Mantle is a statement of safety, and a way to keep anyone else from arming. (§4c, characters §3)
 
 ### Myth
 - **Six years as a recluse** creates a Myth of invalid, madwoman or ghost that may pull at the impostor. (§6)
@@ -1417,8 +1740,15 @@ A running reference of story consequences, grouped by the worldbuilding element 
 - **The heroine is the Concord's living Saint,** running on the same Myth as the eldest daughter, but sanctioned. (§5b)
 - **The storybook** is a physical object; whoever finds and recognises it threatens the secret. (characters §3)
 - **The Couturier's tell:** a modiste or rival spots skill in the impostor's gowns that a "sickly recluse" shouldn't have. (characters §3)
-- **Mispronouncing "Lleucu"** as "Lucy": the betrothed learning, or refusing, to say the private name right. (characters §0)
+- **Mispronouncing "Lleucu"** as "Lucy": ~~the betrothed learning, or refusing, to say the private name right.~~ **Dropped:** almost nobody says the name aloud. (characters §0)
 - **Concord religious names** hide clerics' birth names from Myth; the Saint may be renamed, and lose a piece of herself. (characters §0)
+- **The secret name:** Aveline gave Gwion "Lleucu" for private use only. The Tulpa slowly recovers that memory, a step toward learning she is partly made from Aveline. (characters §2)
+- **"And you are no bigger than before":** the Tulpa repeats the storybook's last line without knowing what it means, until she remembers or reads the tale. (characters §3)
+- **The Litany and the incense:** Agnes's trance pulls Gwion under; Quieting incense dissolves the wall between Gwion and Lleucu, so they blend and he thinks she's gone; Clementia learns he has given his "whispers" a name. Later, he may realise it was partly Lleucu who panicked. (characters §5.1)
+- **The challenge pinch:** a calling card creased once through the sender's name *is* a challenge, and the crease never leaves, like a scar. The reply is in how the card comes back. (§5c Calling-card codes)
+- **Agnes's etiquette arc:** the forgiven foreigner becomes a deliberately kept doll, then an uncanny-valley offender. The same breach (e.g. healing away a young man's bare scar) is mercy at her debut and an insult once she knows better. (characters §5.1)
+- **The retired warhorse:** the horse the Lord revived in the war now stands at stud, too shaken to serve again. (characters §1)
+- **The 1st son's bullying:** he'll never hear his own name again, and "Gwion" is the target of everything he feels. Shared bleedings and distance soften him. (characters §4.4)
 
 ### The Season
 - **Pre-Season confession** with the chaplain. (§5c)
@@ -1504,7 +1834,7 @@ A running reference of story consequences, grouped by the worldbuilding element 
 - [x] Can Myth act without consent? Deliberately nebulous; the twins are closer to Myth-born
 - [ ] How is true Myth knowledge transmitted among nobles?
 - [ ] Official public explanation for crusade-era monsters
-- [ ] Rule-bending craft Mantles: confirm the "Myth-touched ancestor, any wearer" proposal
+- [x] Rule-bending craft Mantles: Myth-touched ancestor, any wearer (canon)
 - [ ] Noble insult for those who can't fight unmantled
 - [ ] Harvest: does the farm Mantle rest or peak?
 - [ ] Does Mantle colour change with the fronting alter?
@@ -1514,3 +1844,8 @@ A running reference of story consequences, grouped by the worldbuilding element 
 - [ ] How servants are kept silent
 - [ ] Can Myth make the impostor fertile?
 - [ ] Where does the Villainess debut: the Season, court service, or an Inquisition-run academy?
+- [x] Pressure scaling: 2× (red) to 8× (violet) at 10 cm, linear by tier
+- [x] Piercing rites on melee weapons: the rite only works once a projectile is let go (canon, §1.2)
+- [ ] Pariah Myth expanded (§2a). Settled: roles and vessels, sixth sense, inheritance, threat scale, frequency, penny dreadfuls. Open: nomenclature, evolutionary perks
+- [x] The Conqueror's symbols: tribute cloak, merciful blinding, mercurial wrath (canon, §3c). Renaud's ceremonial marks (characters §6)
+- [x] The Huntress rides and shoots from the saddle; only the Cavalier Mantles the horse (§2a, §4c)
